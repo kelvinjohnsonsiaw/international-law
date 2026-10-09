@@ -6,8 +6,9 @@ import Cases from "./components/Cases.jsx";
 import Cards from "./components/Cards.jsx";
 import Quiz from "./components/Quiz.jsx";
 import Practice from "./components/Practice.jsx";
+import Revision from "./components/Revision.jsx";
 
-const TABS = [["learn", "Learn", Learn], ["cases", "Case stories", Cases], ["cards", "Flashcards", Cards], ["quiz", "Quiz", Quiz], ["practice", "Exam practice", Practice]];
+const TABS = [["learn", "Learn", Learn], ["cases", "Case stories", Cases], ["cards", "Flashcards", Cards], ["quiz", "Quiz", Quiz], ["practice", "Exam practice", Practice], ["revision", "🔀 Mixed revision", Revision]];
 
 export default function App() {
   const [ci, setCi] = useState(0);
@@ -47,7 +48,7 @@ export default function App() {
         ))}
       </div>
 
-      <main><View key={ci + tab} c={c} onDone={markDone} /></main>
+      <main><View key={tab === "revision" ? "revision" : ci + tab} c={c} all={chapters} onDone={markDone} /></main>
       <button className="reset" onClick={reset}>Reset my progress</button>
     </div>
   );

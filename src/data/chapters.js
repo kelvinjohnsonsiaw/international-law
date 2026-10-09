@@ -774,6 +774,12 @@ export default [
     "UK v Iceland",
     "Iceland tried to extend its fishing zone from 12 to 50 miles despite a 1961 agreement.",
     "Treaty obligations and changed circumstances."
+   ],
+   [
+    "Bosnia v Serbia and Montenegro (ICJ, 1996)",
+    "Preliminary Objections",
+    "Yugoslavia argued the case was inadmissible because Izetbegović allegedly lacked authority as president under domestic law when he authorised the claim. The Court did not need to examine the domestic-law provisions to rule on the objection.",
+    "A state's chosen representative can speak for it internationally."
    ]
   ],
   "cards": [
@@ -1634,6 +1640,22 @@ export default [
    [
     "Srebrenica result?",
     "UN immune from Dutch courts."
+   ],
+   [
+    "What is the Tin Council lesson?",
+    "Members aren't automatically liable; the IO has its own identity."
+   ],
+   [
+    "Why do IO recommendations matter?",
+    "National courts may take them into account (Grimaldi)."
+   ],
+   [
+    "Name the book's immunity tests",
+    "Absolute immunity vs functional immunity, plus the alternative-remedy test."
+   ],
+   [
+    "Reparation for Injuries: key result?",
+    "International organisations can have personality and bring claims."
    ]
   ],
   "quiz": [
@@ -1746,6 +1768,61 @@ export default [
      "Immunity"
     ],
     "Separate identity."
+   ],
+   [
+    "The International Tin Council was given UK personality by…",
+    "An Order",
+    [
+     "A treaty only",
+     "An Order",
+     "A court",
+     "Custom"
+    ],
+    "The Rayner case."
+   ],
+   [
+    "Waite and Kennedy turned on…",
+    "Reasonable alternative means",
+    [
+     "State consent",
+     "Reasonable alternative means",
+     "Veto",
+     "Custom"
+    ],
+    "A proportionality idea."
+   ],
+   [
+    "Z.M. v League of Arab States supports…",
+    "Absolute IO immunity",
+    [
+     "No immunity",
+     "Absolute IO immunity",
+     "State immunity",
+     "Waiver only"
+    ],
+    "Swiss labour court."
+   ],
+   [
+    "Dupree v OAS limited immunity to…",
+    "What the OAS's activities required",
+    [
+     "All acts",
+     "What the OAS's activities required",
+     "No acts",
+     "Staff only"
+    ],
+    "US IOIA reading."
+   ],
+   [
+    "Behrami placed responsibility on…",
+    "The UN, for acts under its authority",
+    [
+     "Each state",
+     "The UN, for acts under its authority",
+     "Kosovo",
+     "NATO members"
+    ],
+    "Attribution to the organisation."
    ]
   ],
   "practice": {
@@ -1958,6 +2035,22 @@ export default [
    [
     "High seas?",
     "Waters beyond national jurisdiction, open to all."
+   ],
+   [
+    "What does Truman's 1945 proclamation matter for?",
+    "The continental shelf concept."
+   ],
+   [
+    "Why is Pedra Branca important?",
+    "Failure to respond to the other state's acts as sovereign can lose title."
+   ],
+   [
+    "UNCLOS III: how long to negotiate?",
+    "Nine years."
+   ],
+   [
+    "Which states need a defined land territory?",
+    "All states; the question is acquiring and keeping it."
    ]
   ],
   "quiz": [
@@ -2070,6 +2163,61 @@ export default [
      "Straits"
     ],
     "Distance principle."
+   ],
+   [
+    "Ligitan and Sipadan show for tiny islands…",
+    "Effectivités generally suffice",
+    [
+     "Only treaties count",
+     "Effectivités generally suffice",
+     "Distance only",
+     "Prescription needed"
+    ],
+    "Per the book."
+   ],
+   [
+    "The 1930 codification conference failed on…",
+    "The breadth of territorial waters",
+    [
+     "Piracy",
+     "The breadth of territorial waters",
+     "Straits",
+     "Fishing"
+    ],
+    "Left unresolved."
+   ],
+   [
+    "Eastern Greenland concerned…",
+    "Norway's claim against Denmark",
+    [
+     "A strait",
+     "Norway's claim against Denmark",
+     "Piracy",
+     "Hot pursuit"
+    ],
+    "PCIJ 1933."
+   ],
+   [
+    "Grisbadarna shows…",
+    "Rights arise from coastal territory",
+    [
+     "Free seas",
+     "Rights arise from coastal territory",
+     "Cession",
+     "Prescription"
+    ],
+    "Norway v Sweden."
+   ],
+   [
+    "The EEZ grew out of…",
+    "Exclusive fishing zones",
+    [
+     "The cannon rule",
+     "Exclusive fishing zones",
+     "The high seas",
+     "Straits"
+    ],
+    "Per the book."
    ]
   ],
   "practice": {
@@ -2357,6 +2505,22 @@ export default [
    [
     "Piracy case?",
     "Re Piracy Jure Gentium."
+   ],
+   [
+    "What does Cutting illustrate?",
+    "Passive personality (controversial)."
+   ],
+   [
+    "Which case on a ship in Cardiff?",
+    "Cristina."
+   ],
+   [
+    "What distinguishes prescriptive from adjudicatory jurisdiction?",
+    "Making laws vs courts applying them."
+   ],
+   [
+    "What does Toscanino add?",
+    "An exception to the Ker-style abduction approach."
    ]
   ],
   "quiz": [
@@ -2467,6 +2631,61 @@ export default [
      "A state enforces in another state without consent",
      "A treaty is signed",
      "A court sits"
+    ],
+    "Abduction cases."
+   ],
+   [
+    "Zehe concerned which basis?",
+    "Protective",
+    [
+     "Nationality",
+     "Protective",
+     "Universal",
+     "Passive"
+    ],
+    "Espionage against the US."
+   ],
+   [
+    "Gonzales shows the protective principle can be…",
+    "Stretched",
+    [
+     "Narrowed",
+     "Stretched",
+     "Banned",
+     "Void"
+    ],
+    "Per the book."
+   ],
+   [
+    "Eichmann was tried in…",
+    "Israel",
+    [
+     "Germany",
+     "Israel",
+     "Argentina",
+     "The Hague"
+    ],
+    "1960."
+   ],
+   [
+    "Wood Pulp involved…",
+    "EU competition law and non-EU producers",
+    [
+     "Piracy",
+     "EU competition law and non-EU producers",
+     "Treaty reservations",
+     "Nationality"
+    ],
+    "Effects doctrine."
+   ],
+   [
+    "Which South African case involved Swaziland?",
+    "Nduli or Ebrahim",
+    [
+     "Ker",
+     "Nduli or Ebrahim",
+     "Quirin",
+     "Palmas"
     ],
     "Abduction cases."
    ]
@@ -2617,6 +2836,12 @@ export default [
     "House of Lords",
     "After he left office, could a former head of state still claim immunity for torture charges from Spain?",
     "Immunity after office."
+   ],
+   [
+    "Pinochet (No 3) (UK HL, 1999)",
+    "Ex p Pinochet Ugarte",
+    "Spain sought the former Chilean dictator in the UK for torture and crimes against humanity. He claimed immunity as head of state. The Lords held he was not entitled to it, though he was never extradited because the Home Secretary halted proceedings.",
+    "Immunity of former heads of state."
    ]
   ],
   "cards": [
@@ -2675,6 +2900,22 @@ export default [
    [
     "Enforcement vs jurisdiction?",
     "Winning a case and enforcing it are different questions."
+   ],
+   [
+    "Which case concerned cement for barracks?",
+    "Trendtex."
+   ],
+   [
+    "Which case: Germany v Italy?",
+    "Jurisdictional Immunities (2012)."
+   ],
+   [
+    "What did Holland v Lampen-Wolfe concern?",
+    "Educational services to US forces: a sovereign context."
+   ],
+   [
+    "Pinochet (No 3) result?",
+    "No immunity for a former head of state for torture; extradition later halted."
    ]
   ],
   "quiz": [
@@ -2787,6 +3028,61 @@ export default [
      "Treaty"
     ],
     "US executive signal."
+   ],
+   [
+    "Pinochet (No 3) held he…",
+    "Was not entitled to immunity",
+    [
+     "Had full immunity",
+     "Was not entitled to immunity",
+     "Was extradited",
+     "Was acquitted"
+    ],
+    "But extradition was halted."
+   ],
+   [
+    "Claim Against the Empire of Iran said purpose alone is…",
+    "Insufficient",
+    [
+     "Enough",
+     "Insufficient",
+     "Irrelevant",
+     "Required"
+    ],
+    "Nature matters."
+   ],
+   [
+    "Roy v South Africa shows…",
+    "A sovereign act can be commercial in nature",
+    [
+     "Absolute immunity",
+     "A sovereign act can be commercial in nature",
+     "No immunity",
+     "Waiver"
+    ],
+    "Employment context."
+   ],
+   [
+    "Schooner Exchange concerned…",
+    "A warship",
+    [
+     "A tanker",
+     "A warship",
+     "A plane",
+     "A bank"
+    ],
+    "US 1812."
+   ],
+   [
+    "Diplomatic immunity continues…",
+    "For the period of service",
+    [
+     "For life",
+     "For the period of service",
+     "Never",
+     "Only in treaty states"
+    ],
+    "Functional necessity."
    ]
   ],
   "practice": {
@@ -3005,6 +3301,22 @@ export default [
    [
     "Australian view of custom?",
     "A source of the common law, not automatically part of it."
+   ],
+   [
+    "R v Keyn lesson?",
+    "Courts needed statute to try a foreigner for a death in the territorial sea."
+   ],
+   [
+    "Mortensen v Peters lesson?",
+    "A clear statute prevails over custom."
+   ],
+   [
+    "What do Nulyarimma, Thorpe and Sumner share?",
+    "Genocide isn't a domestic crime without legislation."
+   ],
+   [
+    "Parlement Belge concerns?",
+    "Treaty power versus domestic law."
    ]
   ],
   "quiz": [
@@ -3117,6 +3429,61 @@ export default [
      "Binding statute"
     ],
     "Chow Hung Ching."
+   ],
+   [
+    "R v Keyn is about…",
+    "Jurisdiction over the territorial sea",
+    [
+     "Piracy",
+     "Jurisdiction over the territorial sea",
+     "Treaties",
+     "Immunity"
+    ],
+    "1876."
+   ],
+   [
+    "Maclaine Watson v DTI involved…",
+    "The royal prerogative and treaties",
+    [
+     "Piracy",
+     "The royal prerogative and treaties",
+     "Statehood",
+     "Equity"
+    ],
+    "Lord Oliver."
+   ],
+   [
+    "Chow Hung Ching shows Australia sees custom as…",
+    "A source of law",
+    [
+     "Automatic law",
+     "A source of law",
+     "Irrelevant",
+     "A treaty"
+    ],
+    "Dixon J."
+   ],
+   [
+    "Greco-Bulgarian Communities shows…",
+    "A state can't plead national law",
+    [
+     "National law prevails",
+     "A state can't plead national law",
+     "Treaties void",
+     "Custom only"
+    ],
+    "PCIJ."
+   ],
+   [
+    "Avena concerned…",
+    "Mexican nationals on death row",
+    [
+     "German brothers",
+     "Mexican nationals on death row",
+     "Piracy",
+     "Immunity"
+    ],
+    "52 nationals."
    ]
   ],
   "practice": {
@@ -3256,6 +3623,22 @@ export default [
    [
     "Collective self-defence?",
     "Help to an attacked state; Nicaragua required a request."
+   ],
+   [
+    "What did Corfu Channel reject?",
+    "UK minesweeping as justified self-help."
+   ],
+   [
+    "Wall AO on Art 51?",
+    "Self-defence concerns an armed attack by one state against another."
+   ],
+   [
+    "What is Kellogg-Briand's status?",
+    "Still in force."
+   ],
+   [
+    "Is the ban in Art 2(4) limited to war?",
+    "No, it covers any military force."
    ]
   ],
   "quiz": [
@@ -3368,6 +3751,61 @@ export default [
      "Nothing"
     ],
     "The book says Art 51 does not."
+   ],
+   [
+    "Caroline arose from…",
+    "Rebels using a steamboat",
+    [
+     "A sea collision",
+     "Rebels using a steamboat",
+     "An embargo",
+     "A coup"
+    ],
+    "1837."
+   ],
+   [
+    "The 'until' clause limits self-defence to…",
+    "Until the Security Council acts",
+    [
+     "Forever",
+     "Until the Security Council acts",
+     "One week",
+     "Peace"
+    ],
+    "Art 51."
+   ],
+   [
+    "Is humanitarian intervention recognised in the Charter?",
+    "No",
+    [
+     "Yes",
+     "No",
+     "Only in Africa",
+     "Only with veto"
+    ],
+    "Per the book."
+   ],
+   [
+    "Judge Jennings dissented on…",
+    "Collective self-defence",
+    [
+     "Piracy",
+     "Collective self-defence",
+     "Territory",
+     "Immunity"
+    ],
+    "Nicaragua."
+   ],
+   [
+    "The book calls Art 2(4)…",
+    "Jus cogens",
+    [
+     "Soft law",
+     "Jus cogens",
+     "Custom only",
+     "Optional"
+    ],
+    "A peremptory ban."
    ]
   ],
   "practice": {
@@ -3527,6 +3965,22 @@ export default [
    [
     "Collective self-defence vs collective security?",
     "Self-defence responds to an armed attack; collective security is organised through a competent organ."
+   ],
+   [
+    "What does 'all necessary means' imply?",
+    "Authorisation of force."
+   ],
+   [
+    "Is peacekeeping in the Charter?",
+    "No, it developed in practice."
+   ],
+   [
+    "What did ECOWAS do in Liberia?",
+    "Acted first, seeking endorsement later."
+   ],
+   [
+    "What links Libya 2011 to R2P?",
+    "Intervention to protect civilians."
    ]
   ],
   "quiz": [
@@ -3637,6 +4091,61 @@ export default [
      "After sanctions or if they would not work",
      "Only with veto",
      "Only in self-defence"
+    ],
+    "Per the book."
+   ],
+   [
+    "The Council's first step is…",
+    "Determining a threat under Art 39",
+    [
+     "Sanctions",
+     "Determining a threat under Art 39",
+     "Force",
+     "Veto"
+    ],
+    "Then Art 40."
+   ],
+   [
+    "Resolution 661 allowed…",
+    "Humanitarian trade",
+    [
+     "Force",
+     "Humanitarian trade",
+     "Invasion",
+     "Veto"
+    ],
+    "Food and medicine."
+   ],
+   [
+    "Operation Artemis shows…",
+    "Action beyond a region",
+    [
+     "No action",
+     "Action beyond a region",
+     "Veto",
+     "Waiver"
+    ],
+    "Chapter VIII."
+   ],
+   [
+    "Tanzania v Uganda claimed…",
+    "Self-defence",
+    [
+     "Humanitarian intervention",
+     "Self-defence",
+     "Mandate",
+     "Treaty"
+    ],
+    "Not humanitarian."
+   ],
+   [
+    "Collective security differs from collective self-defence because…",
+    "It acts through a competent organ",
+    [
+     "It is only self-defence",
+     "It acts through a competent organ",
+     "It needs no organ",
+     "It bans force"
     ],
     "Per the book."
    ]
@@ -3767,6 +4276,22 @@ export default [
    [
     "Quirin?",
     "Origin of 'unlawful combatant'."
+   ],
+   [
+    "Quirin facts?",
+    "German soldiers in civilian clothes captured in the US."
+   ],
+   [
+    "Čelebići principle?",
+    "No gap: combatant or civilian."
+   ],
+   [
+    "Who developed the Martens clause idea?",
+    "The book uses it for humanity where rules are silent."
+   ],
+   [
+    "Hague vs Geneva?",
+    "Hague: means and methods. Geneva: protection."
    ]
   ],
   "quiz": [
@@ -3879,6 +4404,61 @@ export default [
      "FIFA"
     ],
     "Red Cross."
+   ],
+   [
+    "Tadić was decided by…",
+    "The ICTY",
+    [
+     "The ICJ",
+     "The ICTY",
+     "The ICC",
+     "ITLOS"
+    ],
+    "1995."
+   ],
+   [
+    "Common Art 2 covers…",
+    "International armed conflicts",
+    [
+     "Internal",
+     "International armed conflicts",
+     "Peace",
+     "Piracy"
+    ],
+    "Classification."
+   ],
+   [
+    "Additional Protocols date from…",
+    "1977",
+    [
+     "1949",
+     "1977",
+     "1907",
+     "1899"
+    ],
+    "Complementing Geneva."
+   ],
+   [
+    "IHL differs from jus ad bellum because it governs…",
+    "Conduct of war",
+    [
+     "Legality of war",
+     "Conduct of war",
+     "Treaties",
+     "Courts"
+    ],
+    "Jus in bello."
+   ],
+   [
+    "The Hague Regulations ban…",
+    "Superfluous injury weapons",
+    [
+     "All weapons",
+     "Superfluous injury weapons",
+     "Courts",
+     "Treaties"
+    ],
+    "Per the book."
    ]
   ],
   "practice": {
@@ -4659,6 +5239,22 @@ export default [
    [
     "PCA?",
     "1907 Hague Convention, members nominated by states."
+   ],
+   [
+    "What did Mavrommatis define?",
+    "A dispute."
+   ],
+   [
+    "Which case on negotiating preceding a court case?",
+    "Georgia v Russia and Cameroon v Nigeria."
+   ],
+   [
+    "What does Guinea-Bissau v Senegal stress?",
+    "Reasons in arbitral awards."
+   ],
+   [
+    "Why was the Bering Sea case notable?",
+    "A reasoned award for Britain."
    ]
   ],
   "quiz": [
@@ -4771,6 +5367,61 @@ export default [
      "They use force"
     ],
     "Mediator proposes solutions."
+   ],
+   [
+    "Conciliation differs from arbitration because…",
+    "It isn't binding",
+    [
+     "It is binding",
+     "It isn't binding",
+     "It uses force",
+     "It needs no consent"
+    ],
+    "Recommendations only."
+   ],
+   [
+    "Pakistan v India (POWs) shows…",
+    "Negotiation ending litigation",
+    [
+     "Veto",
+     "Negotiation ending litigation",
+     "Sanctions",
+     "Waiver"
+    ],
+    "Discontinuance."
+   ],
+   [
+    "Early arbitrations often lacked…",
+    "Reasons",
+    [
+     "Arbitrators",
+     "Reasons",
+     "Awards",
+     "Parties"
+    ],
+    "Portendick."
+   ],
+   [
+    "The Hague Conventions improved…",
+    "Inquiry procedures",
+    [
+     "Courts",
+     "Inquiry procedures",
+     "Sanctions",
+     "Veto"
+    ],
+    "1907 over 1899."
+   ],
+   [
+    "Duty to negotiate comes mainly from…",
+    "Treaties",
+    [
+     "Custom",
+     "Treaties",
+     "The Charter only",
+     "Courts"
+    ],
+    "No general duty."
    ]
   ],
   "practice": {
@@ -4808,1048 +5459,1931 @@ export default [
   "t": "The International Court of Justice",
   "c": "#7B4FD1",
   "e": "🧑‍⚖️",
-  "big": "The ICJ is the UN's principal judicial organ, in The Hague. It decides disputes between states and gives advisory opinions.",
-  "an": "A court that only works if both sides agree to come, and where decisions are binding but enforcement is difficult.",
+  "fromBook": true,
+  "big": "The ICJ is the UN's principal judicial organ. This chapter covers how states reach it (consent), who sits on it, optional clause declarations and reservations, interventions, advisory opinions and the effects of its judgments.",
+  "an": "A court that can only hear a case if the parties have agreed to come, and the agreement can be given in advance, after the dispute begins, or even by conduct.",
   "pts": [
-   "<b>Composition</b>: 15 judges elected by the GA and SC for nine-year terms, with ad hoc judges allowed.",
-   "<b>Contentious jurisdiction</b>: only states. Based on special agreement, compromissory clause, or optional clause declaration (Art 36(2)).",
-   "<b>Advisory jurisdiction</b>: for UN organs and agencies; non-binding.",
-   "<b>Applicable law</b>: Art 38 sources.",
-   "<b>Provisional measures</b> (Art 41) are binding (LaGrand).",
-   "<b>Enforcement</b>: Art 94(2) lets a party go to the Security Council, but the veto limits this.",
-   "<b>Intervention</b>: third states may intervene (Arts 62, 63)."
+   "<b>History:</b> the PCIJ came first but was not a principal organ of the League. The ICJ is the principal judicial organ of the UN.",
+   "<b>Access vs jurisdiction:</b> UN members have automatic access, but that doesn't mean the Court automatically has jurisdiction. Only states appear in contentious cases; only UN organs and specialised agencies request advisory opinions.",
+   "<b>Judges:</b> elected by the Security Council and General Assembly from nominations by national groups of the PCA. Normally 15 judges for nine-year terms; nine form a quorum; special chambers and ad hoc judges exist. Permanent members of the Security Council have always had a judge, though no rule requires it.",
+   "<b>Consent is the basis of jurisdiction.</b> Routes: compromis (ad hoc agreement, form doesn't matter), treaties in force (compromissory clauses), the optional clause declaration (Art 36(2)), and forum prorogatum (inferring consent from the defendant's clear conduct, Art 38(5) of the Rules). The UN Charter itself isn't a basis.",
+   "<b>Optional clause declarations:</b> treated as treaties for the obligations they create (Nicaragua). Different notice rules apply to making and ending them. Reciprocity applies, so a state can rely on the other side's reservations.",
+   "<b>Reservations:</b> by time (ratione temporis), subject matter (ratione materiae) and domestic jurisdiction (Connally-type). Art 36(3) isn't exhaustive but reservations mustn't defeat the system.",
+   "<b>Intervention:</b> Art 62 (discretionary, needs an interest of a legal nature) and Art 63 (by right where a convention's interpretation is in issue; the ruling binds the intervener).",
+   "<b>Advisory opinions:</b> need a legal question within the requester's activities. Political elements don't automatically bar a request. Consent is generally not required, but the Court may decline if it would affect a non-consenting state (Eastern Carelia).",
+   "<b>Effects:</b> the Monetary Gold principle bars deciding where an absent state's rights are the very subject of the case. Judgments can be revised only in narrow circumstances."
   ],
   "cases": [
    [
-    "Corfu Channel (ICJ, 1948)",
-    "Jurisdiction",
-    "Albania accepted jurisdiction by letter after the UK's application (forum prorogatum).",
-    "Consent can come later."
+    "Peace Treaties (ICJ, 1950)",
+    "Advisory Opinion",
+    "The Court found the sides held 'clearly opposite views', so a dispute existed; consent is the basis for contentious jurisdiction, not advisory.",
+    "Dispute and consent."
    ],
    [
-    "Nicaragua v US (ICJ, 1984)",
-    "Jurisdiction",
-    "The Court had jurisdiction even though the US tried to withdraw its declaration.",
-    "Optional clause."
+    "UN Headquarters Agreement AO (1988)",
+    "Obligation to arbitrate",
+    "The General Assembly asked if the US had to arbitrate under the Headquarters Agreement.",
+    "Advisory jurisdiction."
    ],
    [
-    "Monetary Gold (ICJ, 1954)",
+    "South West Africa (1962 and 1966)",
+    "Ethiopia & Liberia v South Africa",
+    "A mere assertion isn't enough to show a dispute; in 1966 a narrow 'legal interest' (personal rights and obligations) was required, and a judge was excluded for previous involvement.",
+    "Dispute, legal interest, impartiality."
+   ],
+   [
+    "Legality of Use of Force (2004)",
+    "Serbia & Montenegro v Belgium",
+    "Distinguishes jurisdiction (consent) from the right of a party to appear before the Court.",
+    "Access v jurisdiction."
+   ],
+   [
+    "Genocide Convention (Provisional Measures, 1993)",
+    "Bosnia v Yugoslavia",
+    "Proceedings could validly continue; the Court's later 1996 and 2007 decisions built on this.",
+    "Provisional measures and jurisdiction."
+   ],
+   [
+    "Gulf of Maine (1984)",
+    "US v Canada",
+    "First use of a Special Chamber; parties' consent to its composition matters.",
+    "Chambers."
+   ],
+   [
+    "Pedra Branca (2003)",
+    "Malaysia v Singapore",
+    "Judge Higgins recused herself under Art 17(2).",
+    "Judicial involvement."
+   ],
+   [
+    "Namibia AO (1971)",
+    "Advisory Opinion",
+    "The Court rejected objections to certain judges and clarified Art 17(2).",
+    "Impartiality."
+   ],
+   [
+    "Corfu Channel (1948)",
+    "UK v Albania",
+    "The UK argued a Security Council resolution gave the Court compulsory jurisdiction; Albania later accepted jurisdiction by conduct.",
+    "Forum prorogatum."
+   ],
+   [
+    "Aerial Incident (1999 and 2000)",
+    "Pakistan v India",
+    "The Charter alone doesn't confer compulsory jurisdiction; India's declaration reservations excluded the case.",
+    "Charter and reservations."
+   ],
+   [
+    "Certain Criminal Proceedings in France (2003)",
+    "Congo v France",
+    "France accepted jurisdiction after an application, a form of forum prorogatum.",
+    "Forum prorogatum."
+   ],
+   [
+    "Mutual Assistance in Criminal Matters (2008)",
+    "Djibouti v France",
+    "A dispute over investigating a French diplomat's death in Djibouti.",
+    "Consent by conduct."
+   ],
+   [
+    "Qatar v Bahrain (1994)",
+    "Jurisdiction",
+    "Documents signed in Saudi-brokered talks (1987 and 1990) were used to found jurisdiction.",
+    "Compromis form."
+   ],
+   [
+    "Genocide Convention (1996)",
+    "Bosnia v Yugoslavia",
+    "Jurisdiction rested on Art IX of the Genocide Convention.",
+    "Treaty basis."
+   ],
+   [
+    "Territorial Dispute (1994)",
+    "Libya v Chad",
+    "Based on the 1989 Framework Agreement, a bilateral treaty.",
+    "Treaty basis."
+   ],
+   [
+    "Barcelona Traction (1964)",
+    "Belgium v Spain",
+    "Belgium relied on a 1927 treaty of conciliation, judicial settlement and arbitration.",
+    "Treaty basis."
+   ],
+   [
+    "Certain Properties (2005)",
+    "Liechtenstein v Germany",
+    "Liechtenstein challenged German treatment of its nationals' seized properties.",
+    "Temporal limits."
+   ],
+   [
+    "Rights of Minorities in Upper Silesia (PCIJ, 1928)",
+    "Germany v Poland",
+    "Consent can be express or implied.",
+    "Implied consent."
+   ],
+   [
+    "Mavrommatis Jerusalem Concessions (PCIJ, 1925)",
+    "Greece v UK",
+    "The Court accepted jurisdiction on tacit agreement of the parties.",
+    "Tacit consent."
+   ],
+   [
+    "Anglo-Iranian Oil (1952)",
+    "UK v Iran",
+    "Iran's objection raised issues about the claim; the Court's jurisdiction under declarations was tested.",
+    "Declarations."
+   ],
+   [
+    "Fisheries Jurisdiction (1998)",
+    "Spain v Canada",
+    "A declaration is a unilateral act of sovereignty but creates a consensual bond with other declaring states.",
+    "Nature of declarations."
+   ],
+   [
+    "Rights of Passage (1957)",
+    "Portugal v India",
+    "Portugal accepted jurisdiction days before filing; India objected.",
+    "Date of acceptance."
+   ],
+   [
+    "Land and Maritime Boundary (1998)",
+    "Cameroon v Nigeria",
+    "Cameroon filed shortly after its own declaration; the Court notified all parties.",
+    "Reciprocity and timing."
+   ],
+   [
+    "Nicaragua (1984)",
+    "Jurisdiction",
+    "Both had accepted the optional clause; the US tried to modify its declaration, which the Court said was ineffective.",
+    "Modification and termination."
+   ],
+   [
+    "Nottebohm (1953)",
+    "Liechtenstein v Guatemala",
+    "Guatemala's declaration expired after filing, but jurisdiction at filing date held.",
+    "Relevant date."
+   ],
+   [
+    "Phosphates in Morocco (PCIJ, 1938)",
+    "Italy v France",
+    "France's declaration limited jurisdiction to disputes arising after a date (ratione temporis).",
+    "Reservation by time."
+   ],
+   [
+    "Tunisia v Libya (1981) and Libya v Malta (1984)",
+    "Interventions",
+    "Malta sought to intervene; 'interest of a legal nature' is a reason to seek intervention, not itself enough.",
+    "Art 62."
+   ],
+   [
+    "El Salvador v Honduras (1992)",
+    "Land and Maritime Frontier",
+    "A Chamber allowed Nicaragua to intervene on certain aspects.",
+    "Art 62 success."
+   ],
+   [
+    "SS Wimbledon (PCIJ, 1923)",
+    "UK v Germany",
+    "Poland applied to intervene in a case over a ship refused passage at Kiel.",
+    "Early intervention."
+   ],
+   [
+    "Haya de la Torre (1951)",
+    "Colombia v Peru",
+    "Cuba intervened under Art 63 about the Havana Asylum Convention.",
+    "Art 63."
+   ],
+   [
+    "Western Sahara AO (1975)",
+    "Advisory Opinion",
+    "'Legal question' is flexible and can include non-legal elements; the Court may still decline.",
+    "Legal question."
+   ],
+   [
+    "Nuclear Weapons AO (WHO, 1996)",
+    "Request declined",
+    "The WHO's request was outside the scope of its activities.",
+    "Requester's competence."
+   ],
+   [
+    "Certain Expenses (1962)",
+    "General Assembly request",
+    "Political undercurrents didn't stop the Court answering.",
+    "Politics and law."
+   ],
+   [
+    "Conditions of Admission AO (1948)",
+    "Advisory Opinion",
+    "A request framed in abstract terms isn't political just because of its background.",
+    "Political elements."
+   ],
+   [
+    "Eastern Carelia (PCIJ, 1923)",
+    "Advisory Opinion",
+    "The Court declined because the USSR, a non-member, had not consented.",
+    "Consent and advisory."
+   ],
+   [
+    "Wall AO (2004)",
+    "Palestinian Wall",
+    "Israel objected to the request; the Court considered whether to give its opinion.",
+    "Advisory objections."
+   ],
+   [
+    "Special Rapporteur Immunity AO (1999)",
+    "Cumaraswamy",
+    "The request used the UN Convention's mechanism for disputes over immunity.",
+    "Binding effect in practice."
+   ],
+   [
+    "Monetary Gold (1954)",
     "Italy v France, UK, US",
-    "The Court couldn't decide where a third state's legal interests were the subject matter.",
+    "The Court couldn't decide on gold ownership where Albania, an absent state, was indispensable.",
     "Indispensable third party."
    ],
    [
-    "East Timor (ICJ, 1995)",
+    "East Timor (1995)",
     "Portugal v Australia",
-    "Applying Monetary Gold: Indonesia's rights were central, so no jurisdiction.",
-    "Same principle."
+    "Indonesia was not a party and its rights formed the case's subject matter.",
+    "Monetary Gold applied."
    ],
    [
-    "Fisheries Jurisdiction (ICJ, 1998)",
-    "Spain v Canada",
-    "Canada's reservation excluded the case from the Court's jurisdiction.",
-    "Effect of reservations."
-   ],
-   [
-    "LaGrand (ICJ, 2001)",
-    "Germany v US",
-    "Provisional measures are binding.",
-    "Authority of orders."
-   ],
-   [
-    "Armed Activities (ICJ, 2006)",
-    "DRC v Rwanda",
-    "No jurisdiction because of Rwanda's reservation to a treaty clause, even for jus cogens violations.",
-    "Consent still required."
-   ],
-   [
-    "Barcelona Traction (ICJ, 1964)",
-    "Preliminary Objections",
-    "Belgium's application could proceed after discontinuance and re-filing.",
-    "Procedure."
-   ],
-   [
-    "Lockerbie (ICJ, 1992)",
-    "Libya v UK/US",
-    "The Court declined provisional measures because of the Security Council resolution.",
-    "Court and Council."
+    "Revision (Tunisia v Libya, 1985; Yugoslavia, 2003)",
+    "Applications for revision",
+    "Revision requests were rejected, showing the narrow grounds.",
+    "Revision."
    ]
   ],
   "cards": [
    [
-    "How many ICJ judges?",
-    "15."
+    "Principal judicial organ?",
+    "The ICJ."
    ],
    [
-    "Term of office?",
-    "Nine years."
+    "Access vs jurisdiction?",
+    "Access is the right to appear; jurisdiction needs consent."
    ],
    [
-    "Art 36(2)?",
-    "Optional clause declarations."
-   ],
-   [
-    "Forum prorogatum?",
-    "Jurisdiction created by conduct after filing."
-   ],
-   [
-    "Advisory opinions binding?",
-    "No."
-   ],
-   [
-    "Art 59 Statute?",
-    "Decisions bind only the parties."
-   ],
-   [
-    "Art 94 Charter?",
-    "Enforcement via the Security Council."
-   ],
-   [
-    "Ad hoc judge?",
-    "Judge chosen by a party without a national judge."
-   ],
-   [
-    "Who can bring contentious cases?",
+    "Who appears in contentious cases?",
     "States only."
    ],
    [
-    "Who can request advisory opinions?",
-    "UN organs and specialised agencies authorised by the GA."
+    "Who requests advisory opinions?",
+    "UN organs and specialised agencies."
+   ],
+   [
+    "How many judges?",
+    "Normally 15, with a nine-year term."
+   ],
+   [
+    "Quorum?",
+    "Nine."
+   ],
+   [
+    "Basis of jurisdiction?",
+    "Consent."
+   ],
+   [
+    "Compromis?",
+    "Ad hoc agreement to submit a dispute."
+   ],
+   [
+    "Compromissory clause?",
+    "Treaty clause giving jurisdiction in advance."
+   ],
+   [
+    "Optional clause?",
+    "Art 36(2) declaration accepting compulsory jurisdiction."
+   ],
+   [
+    "Forum prorogatum?",
+    "Consent inferred from clear conduct."
+   ],
+   [
+    "Reciprocity?",
+    "A state can rely on the other side's reservations."
+   ],
+   [
+    "Art 62?",
+    "Discretionary intervention."
+   ],
+   [
+    "Art 63?",
+    "Intervention by right in treaty interpretation."
+   ],
+   [
+    "Monetary Gold?",
+    "No case where an absent state's rights are the subject."
+   ],
+   [
+    "Eastern Carelia?",
+    "Advisory opinion declined for lack of consent."
    ]
   ],
   "quiz": [
    [
-    "ICJ has…",
-    "15",
+    "ICJ jurisdiction depends on…",
+    "Consent",
     [
-     "9",
-     "15",
-     "20",
-     "5"
+     "Membership",
+     "Consent",
+     "Veto",
+     "Region"
     ],
-    "Elected by GA and SC."
+    "Basis of jurisdiction."
    ],
    [
-    "Only states can be…",
-    "Parties in contentious cases",
+    "Only who may appear in contentious cases?",
+    "States",
     [
-     "Advised",
-     "Parties in contentious cases",
-     "Judges",
-     "Registrars"
+     "NGOs",
+     "States",
+     "Individuals",
+     "Companies"
     ],
     "Art 34."
    ],
    [
-    "Monetary Gold concerns…",
-    "Indispensable third party",
+    "The UN Charter alone…",
+    "Doesn't confer compulsory jurisdiction",
     [
-     "Waiver",
-     "Indispensable third party",
-     "Custom",
-     "Force"
+     "Confers it",
+     "Doesn't confer compulsory jurisdiction",
+     "Binds all",
+     "Is a compromis"
     ],
-    "1954."
+    "Pakistan v India."
    ],
    [
-    "Provisional measures are…",
-    "Binding",
+    "Forum prorogatum means…",
+    "Consent inferred from conduct",
     [
-     "Optional",
-     "Binding",
-     "Advisory",
-     "Void"
-    ],
-    "LaGrand."
-   ],
-   [
-    "Advisory opinions are…",
-    "Not binding",
-    [
-     "Binding",
-     "Not binding",
-     "Orders",
-     "Treaties"
-    ],
-    "Authoritative."
-   ],
-   [
-    "Jurisdiction depends on…",
-    "State consent",
-    [
-     "UN membership",
-     "State consent",
+     "Treaty clause",
+     "Consent inferred from conduct",
      "Veto",
-     "Treaty only"
+     "Optional clause"
     ],
-    "Principle."
+    "Corfu Channel."
    ],
    [
-    "Enforcement is through…",
-    "Security Council",
+    "Art 63 intervention is…",
+    "By right",
     [
-     "GA",
-     "Security Council",
-     "Registry",
-     "None"
+     "Discretionary",
+     "By right",
+     "Banned",
+     "Needs veto"
     ],
-    "Art 94(2)."
+    "Treaty interpretation."
    ],
    [
-    "East Timor applied…",
-    "Monetary Gold",
+    "Art 62 intervention needs…",
+    "An interest of a legal nature",
     [
-     "Lotus",
-     "Monetary Gold",
-     "Corfu",
-     "Palmas"
+     "Treaty",
+     "An interest of a legal nature",
+     "Veto",
+     "Money"
     ],
-    "Indonesia was indispensable."
+    "Per the book."
+   ],
+   [
+    "Eastern Carelia concerned…",
+    "Declining an opinion without consent",
+    [
+     "Intervention",
+     "Declining an opinion without consent",
+     "Revision",
+     "Judges"
+    ],
+    "Non-member USSR."
+   ],
+   [
+    "Monetary Gold bars cases where…",
+    "An absent state is indispensable",
+    [
+     "States agree",
+     "An absent state is indispensable",
+     "The ICJ is full",
+     "Judges disagree"
+    ],
+    "East Timor applied it."
+   ],
+   [
+    "Ad hoc judges are appointed when…",
+    "A party lacks a national judge",
+    [
+     "A judge dies",
+     "A party lacks a national judge",
+     "Always",
+     "Never"
+    ],
+    "Per the book."
+   ],
+   [
+    "Nicaragua says declarations are treated as…",
+    "Treaties as far as obligations go",
+    [
+     "Statutes",
+     "Treaties as far as obligations go",
+     "Custom",
+     "Soft law"
+    ],
+    "Optional clause."
+   ],
+   [
+    "The Namibia AO clarified…",
+    "Art 17(2) on judges",
+    [
+     "Statehood",
+     "Art 17(2) on judges",
+     "Reservations",
+     "Revision"
+    ],
+    "Impartiality."
+   ],
+   [
+    "Phosphates in Morocco illustrates…",
+    "Reservation ratione temporis",
+    [
+     "Reservation ratione materiae",
+     "Reservation ratione temporis",
+     "Intervention",
+     "Revision"
+    ],
+    "Time limit."
    ]
-  ]
+  ],
+  "practice": {
+   "self": [
+    "Contentious vs advisory jurisdiction?",
+    "Ways a state accepts ICJ jurisdiction?",
+    "Intervention by right vs discretionary?",
+    "What are reservations and how are they used?",
+    "When can a party apply for revision?",
+    "What is the Monetary Gold principle?"
+   ],
+   "discuss": [
+    "Is access to the Court the same as jurisdiction?",
+    "Is forum prorogatum the most controversial route?",
+    "Does a state have a right to intervene?",
+    "Are Connally reservations the most disruptive?",
+    "Once a state accepts the optional clause, can it never object?",
+    "How does the Statute allow revision while protecting parties' rights?"
+   ],
+   "scenario": {
+    "title": "Assessment question (the island dispute)",
+    "text": "Candoma has an Art 36(2) declaration excluding 'boundary questions, mortgages and maritime activities in which Candoma is interested'. Rutamu disputes an island with Candoma. Advise on jurisdiction.",
+    "outline": [
+     "Identify the basis: optional clause, with reciprocity.",
+     "Reservations by subject matter: boundary questions and maritime activities.",
+     "Domestic-jurisdiction style reservations (Connally) and the effect of reciprocity.",
+     "Does Rutamu have a declaration? Compare the two declarations.",
+     "Alternative bases: treaty, compromis, forum prorogatum.",
+     "Conclude on whether the ICJ can hear the case."
+    ]
+   }
+  }
  },
  {
   "n": "16",
   "t": "International criminal law",
   "c": "#B7312C",
   "e": "🔨",
-  "big": "International criminal law holds individuals personally responsible for the worst crimes: genocide, crimes against humanity, war crimes, and aggression.",
-  "an": "The shift from 'countries are responsible' to 'people who commit atrocities are responsible, even if they were just following orders'.",
+  "fromBook": true,
+  "big": "International criminal law holds individuals, not just states, accountable for the worst crimes. This chapter covers its history from Nuremberg, its guiding principles, the tribunals and ICC, and the crimes of aggression, crimes against humanity, genocide and war crimes.",
+  "an": "The big shift: 'crimes are committed by men, not abstract entities', so a soldier or leader can't hide behind the state.",
   "pts": [
-   "<b>Nuremberg and Tokyo</b>: first major trials; established individual responsibility.",
-   "<b>Ad hoc tribunals</b>: ICTY (Yugoslavia), ICTR (Rwanda), SCSL (Sierra Leone).",
-   "<b>ICC (Rome Statute 1998, in force 2002)</b>: permanent court with four core crimes.",
-   "<b>Complementarity</b>: the ICC acts only if national courts are unwilling or unable.",
-   "<b>Jurisdiction</b>: territory, nationality, Security Council referral, prosecutor's own initiative.",
-   "<b>No immunity</b> for officials (Art 27), and command responsibility (Art 28).",
-   "<b>Defences</b>: superior orders and duress are limited."
+   "<b>Origins:</b> a product of the two World Wars, especially the Second. Nuremberg and Tokyo set the model. The Tadić appeal described a shift from a state-sovereignty approach to a human-being-oriented approach.",
+   "<b>Legality:</b> nullum crimen sine lege and nulla poena sine lege. A conviction can't rest on a norm the accused couldn't reasonably have known (Vasiljević).",
+   "<b>Tribunals:</b> ICTY and ICTR were created by the Security Council for the former Yugoslavia and Rwanda. The Special Court for Sierra Leone is a hybrid. The ICC is expected to take over the work.",
+   "<b>ICC:</b> based on complementarity (it steps in only if states fail), with rules on composition, crimes, exercise of jurisdiction, amnesties and procedure. The SCSL held a Lomé amnesty can't bar prosecuting international crimes (Kallon).",
+   "<b>Aggression:</b> no clear definition; the 2010 Kampala review didn't produce one. Only the Security Council can determine it, making it political.",
+   "<b>Crimes against humanity:</b> no link to armed conflict needed (Tadić, Nikolić). Attack must be against a civilian population, 'widespread or systematic'. Discriminatory intent is needed only for persecution. A population can be civilian even with some non-civilians present (Kordić, Kunarac).",
+   "<b>Genocide:</b> no universally accepted definition; the 'crime of crimes' (Kambanda). Needs intent to destroy a group in whole or substantial part. Not only killing counts, but also serious bodily or mental harm. Mere expulsion isn't enough (Stakić). Group membership is partly subjective (Rutaganda).",
+   "<b>War crimes:</b> must be closely related to armed conflict (Kunarac). Victims under Common Art 3 can be wider than the text (Naletilić).",
+   "<b>Immunity:</b> the chapter ends by dealing with immunity of officials."
   ],
   "cases": [
    [
-    "Nuremberg Trial (1946)",
-    "IMT",
-    "Nazi leaders were tried for crimes against peace, war crimes and crimes against humanity.",
-    "'Crimes are committed by men, not abstract entities'."
+    "Nuremberg IMT (1946)",
+    "Judgment",
+    "Jackson said victors stayed vengeance and submitted captives to law. 'Crimes are committed by men, not abstract entities.'",
+    "Individual responsibility."
    ],
    [
-    "Tadić (ICTY, 1995-1999)",
-    "Appeals",
-    "First ICTY trial. Held jurisdiction over internal conflicts.",
-    "Individual responsibility in NIAC."
+    "Tokyo IMT (1948)",
+    "Judge Pal dissent",
+    "Pal warned of the danger of leaving terms undefined.",
+    "Definitional gaps."
    ],
    [
-    "Akayesu (ICTR, 1998)",
-    "Trial Chamber",
-    "First genocide conviction by an international tribunal; rape can be an act of genocide.",
-    "Genocide and sexual violence."
+    "Tadić (ICTY, 1995)",
+    "Interlocutory appeal",
+    "A state-sovereignty approach gave way to a human-being-oriented approach; crimes against humanity don't need an armed-conflict link.",
+    "Shift from states to people."
    ],
    [
     "Furundžija (ICTY, 1998)",
     "Trial Chamber",
-    "Torture prohibition is jus cogens, and rape can amount to torture.",
-    "Torture as peremptory."
+    "The same act can involve both individual and state responsibility.",
+    "Dual responsibility."
    ],
    [
-    "Erdemović (ICTY, 1997)",
-    "Appeals Chamber",
-    "Duress isn't a complete defence to killing innocents.",
-    "Limits of duress."
+    "Vasiljević (ICTY, 2002)",
+    "Trial Chamber",
+    "No conviction on a norm the accused couldn't reasonably have known.",
+    "Legality."
    ],
    [
-    "Krstić (ICTY, 2001-2004)",
-    "Srebrenica",
-    "Convicted of genocide as an aider and abettor for the Srebrenica massacre.",
-    "Genocide in Europe."
+    "Klinge (Norway, 1946)",
+    "Supreme Court",
+    "War crimes can carry the death penalty, raising problems with modern treaties.",
+    "Penalties."
    ],
    [
-    "Lubanga (ICC, 2012)",
-    "First ICC verdict",
-    "Convicted for conscripting and using child soldiers.",
-    "First ICC judgment."
+    "Kallon and Kamara (SCSL, 2004)",
+    "Lomé Amnesty",
+    "The amnesty could not bar prosecution of international crimes.",
+    "Amnesty."
    ],
    [
-    "Al Bashir (ICC, 2009-2019)",
-    "Darfur",
-    "Arrest warrants for a sitting head of state, and no immunity before the ICC.",
-    "Immunity limit."
+    "Nikolić (ICTY, 1994)",
+    "Rule 61",
+    "Crimes against humanity gained autonomy after Nuremberg; no link to war crimes needed.",
+    "Autonomy."
    ],
    [
-    "Pinochet No 3 (UK, 1999)",
-    "House of Lords",
-    "Torture allegations meant no immunity for a former head of state.",
-    "Universal jurisdiction in action."
+    "Tadić (Appeals, 1999)",
+    "Trial and Appeals",
+    "Discriminatory intent isn't required for all crimes against humanity; 'any' civilians includes the perpetrator's nationals.",
+    "Elements."
    ],
    [
-    "Taylor (SCSL, 2012)",
-    "Appeals",
-    "Former Liberian president convicted for aiding and abetting war crimes in Sierra Leone.",
-    "Head of state liability."
+    "Kunarac (ICTY, 2001)",
+    "Trial Chamber",
+    "'Civilian population' covers all civilians, including some in-between persons.",
+    "Civilian definition."
+   ],
+   [
+    "Kordić (ICTY, 2001)",
+    "Trial Chamber",
+    "A population is civilian if predominantly civilian.",
+    "Civilian population."
+   ],
+   [
+    "Akayesu (ICTR, 1998)",
+    "Trial Chamber",
+    "An act can be part of a widespread or systematic attack, and need not be both.",
+    "Widespread or systematic."
+   ],
+   [
+    "Semanza (ICTR, 2003)",
+    "Trial Chamber",
+    "The attack must be on discriminatory grounds in the ICTR Statute.",
+    "ICTR specifics."
+   ],
+   [
+    "Blaškić (ICTY, 2000 and 2004)",
+    "Trial and Appeals",
+    "Only the attack must be widespread or systematic, not the accused's acts.",
+    "Scale."
+   ],
+   [
+    "Kambanda (ICTR, 1998)",
+    "Sentence",
+    "Genocide is the 'crime of crimes'.",
+    "Gravity."
+   ],
+   [
+    "Altstötter (Justice Trial, 1947)",
+    "Nuremberg",
+    "Genocide was seen as a prime illustration of a crime against humanity.",
+    "Early genocide."
+   ],
+   [
+    "Kayishema and Ruzindana (ICTR, 1999)",
+    "Trial Chamber",
+    "Genocide's definition built on crimes against humanity.",
+    "Genocide's roots."
+   ],
+   [
+    "Krstić (ICTY, 2001 and 2004)",
+    "Trial and Appeals",
+    "Genocide singled out for special condemnation; the Court looked at the ICC Elements of Crimes and at nullum crimen.",
+    "Srebrenica."
+   ],
+   [
+    "Jelisić (ICTY, 1999)",
+    "Trial Chamber",
+    "Genocidal intent can exist even without a supporting plan.",
+    "Intent."
+   ],
+   [
+    "Rutaganda (ICTR, 1999)",
+    "Trial Chamber",
+    "Group membership is essentially subjective, as the perpetrator perceives it.",
+    "Protected groups."
+   ],
+   [
+    "Eichmann (Israel, 1968)",
+    "District Court",
+    "Serious bodily or mental harm includes enslavement, deportation and detention in ghettos and camps.",
+    "Serious harm."
+   ],
+   [
+    "Stakić (ICTY, 2003)",
+    "Trial Chamber",
+    "Deporting a group isn't enough: physical destruction differs from dissolving a group.",
+    "Limits of genocide."
+   ],
+   [
+    "Blagojević and Jokić (ICTY, 2005)",
+    "Trial Chamber",
+    "Physical or biological destruction need not mean the death of every member.",
+    "Meaning of destruction."
+   ],
+   [
+    "Kunarac (Appeals, 2002)",
+    "ICTY",
+    "What distinguishes a war crime is that it is shaped by the armed conflict, though not necessarily in the combat zone.",
+    "War crime nexus."
+   ],
+   [
+    "Akayesu (Appeals, 2001)",
+    "ICTR",
+    "The persons accountable for serious violations in non-international conflicts are mostly commanders and combatants.",
+    "Perpetrators."
+   ],
+   [
+    "Naletilić and Martinović (ICTY, 2003)",
+    "Trial Chamber",
+    "Victims under Common Art 3 can be wider than the text suggests.",
+    "Protected persons."
    ]
   ],
   "cards": [
    [
-    "Four core crimes?",
-    "Genocide, crimes against humanity, war crimes, aggression."
+    "What does ICL concern?",
+    "Individual accountability for international crimes."
    ],
    [
-    "Rome Statute?",
-    "Treaty creating the ICC (1998)."
+    "Nuremberg's principle?",
+    "Crimes are committed by men, not abstract entities."
+   ],
+   [
+    "Nullum crimen sine lege?",
+    "No crime without law."
+   ],
+   [
+    "Nulla poena sine lege?",
+    "No punishment without law."
+   ],
+   [
+    "ICTY and ICTR?",
+    "Security Council tribunals for Yugoslavia and Rwanda."
+   ],
+   [
+    "SCSL?",
+    "Hybrid national-international court."
    ],
    [
     "Complementarity?",
-    "ICC acts only when states fail."
+    "ICC acts only if states fail."
    ],
    [
-    "Command responsibility?",
-    "Superiors liable for subordinates' crimes."
+    "Aggression?",
+    "No clear definition; Security Council determines."
    ],
    [
-    "Genocide intent?",
-    "Intent to destroy a protected group."
+    "Crimes against humanity: needs armed conflict?",
+    "No."
    ],
    [
-    "Crimes against humanity?",
-    "Widespread or systematic attacks on civilians."
+    "Widespread or systematic?",
+    "The attack, not each act, must be."
    ],
    [
-    "Art 27 Rome Statute?",
-    "Official position gives no immunity."
+    "Persecution?",
+    "Only crime against humanity requiring discriminatory intent."
    ],
    [
-    "ICC seat?",
-    "The Hague."
+    "Genocide?",
+    "Intent to destroy a group in whole or substantial part."
    ],
    [
-    "Superior orders?",
-    "Not a defence, only possible mitigation."
+    "Kambanda?",
+    "Genocide called the 'crime of crimes'."
    ],
    [
-    "Universal jurisdiction?",
-    "Any state may try certain crimes."
+    "Does expulsion equal genocide?",
+    "No (Stakić)."
+   ],
+   [
+    "War crimes nexus?",
+    "Closely related to armed conflict (Kunarac)."
+   ],
+   [
+    "Amnesty?",
+    "Can't bar prosecution for international crimes (Kallon)."
    ]
   ],
   "quiz": [
    [
-    "ICC core crimes number…",
-    "Four",
+    "ICL concerns…",
+    "Individuals",
     [
-     "Two",
-     "Three",
-     "Four",
-     "Six"
+     "Only states",
+     "Individuals",
+     "IOs only",
+     "Companies"
     ],
-    "Genocide, CAH, war crimes, aggression."
+    "Not only states."
    ],
    [
-    "Complementarity means…",
-    "ICC acts if states fail",
+    "Nullum crimen sine lege means…",
+    "No crime without law",
     [
-     "ICC replaces states",
-     "ICC acts if states fail",
-     "UN acts",
-     "Courts merge"
+     "No law without crime",
+     "No crime without law",
+     "No trial",
+     "No court"
     ],
-    "Art 17."
+    "Legality."
    ],
    [
-    "Akayesu is notable for…",
-    "First genocide judgment",
+    "ICTY and ICTR were created by…",
+    "The Security Council",
     [
-     "Torture",
-     "First genocide judgment",
-     "Piracy",
-     "Immunity"
+     "The GA",
+     "The Security Council",
+     "States",
+     "ICC"
     ],
-    "1998."
+    "Per the book."
    ],
    [
-    "Lubanga concerned…",
-    "Child soldiers",
+    "The SCSL is…",
+    "A hybrid court",
+    [
+     "A UN organ",
+     "A hybrid court",
+     "A national court",
+     "An arbitration"
+    ],
+    "Mixed."
+   ],
+   [
+    "Aggression is determined by…",
+    "The Security Council",
+    [
+     "The ICC alone",
+     "The Security Council",
+     "States",
+     "Judges"
+    ],
+    "Per the book."
+   ],
+   [
+    "Crimes against humanity need…",
+    "No armed-conflict link",
+    [
+     "Armed conflict",
+     "No armed-conflict link",
+     "A treaty",
+     "A war"
+    ],
+    "Tadić."
+   ],
+   [
+    "Discriminatory intent is required for…",
+    "Persecution",
+    [
+     "All crimes",
+     "Persecution",
+     "None",
+     "Torture"
+    ],
+    "Tadić appeal."
+   ],
+   [
+    "Genocide was called 'crime of crimes' in…",
+    "Kambanda",
+    [
+     "Akayesu",
+     "Kambanda",
+     "Krstić",
+     "Tadić"
+    ],
+    "ICTR 1998."
+   ],
+   [
+    "Stakić held expulsion alone is…",
+    "Not genocide",
     [
      "Genocide",
-     "Child soldiers",
-     "Torture",
-     "Piracy"
+     "Not genocide",
+     "A war crime",
+     "Aggression"
     ],
-    "2012."
+    "Dissolution isn't destruction."
    ],
    [
-    "Erdemović held…",
-    "Duress no complete defence",
+    "Rutaganda: group membership is…",
+    "Largely subjective",
     [
-     "Duress applies",
-     "Duress no complete defence",
-     "No defence",
-     "Orders"
+     "Objective",
+     "Largely subjective",
+     "Irrelevant",
+     "Racial only"
     ],
-    "Killing innocents."
+    "Perception of the perpetrator."
    ],
    [
-    "Art 27 removes…",
-    "Official immunity",
+    "Kallon held an amnesty…",
+    "Can't bar prosecution",
     [
-     "Jurisdiction",
-     "Official immunity",
-     "Courts",
-     "Defences"
+     "Bars it",
+     "Can't bar prosecution",
+     "Is void",
+     "Is custom"
     ],
-    "Before the ICC."
+    "SCSL."
    ],
    [
-    "Pinochet No 3 involved…",
-    "Torture and immunity",
+    "A war crime is distinguished by…",
+    "Its link to the armed conflict",
     [
-     "Piracy",
-     "Torture and immunity",
-     "Treaties",
-     "Sea"
+     "Its location",
+     "Its link to the armed conflict",
+     "Its penalty",
+     "Its nationality"
     ],
-    "UK."
-   ],
-   [
-    "Nuremberg was…",
-    "IMT trial of Nazi leaders",
-    [
-     "ICC",
-     "IMT trial of Nazi leaders",
-     "UN court",
-     "ICJ"
-    ],
-    "1945-46."
+    "Kunarac."
    ]
-  ]
+  ],
+  "practice": {
+   "self": [
+    "What is international criminal law?",
+    "Explain nullum crimen sine lege.",
+    "Which tribunals exist and who created them?",
+    "What is complementarity?",
+    "What is the status of aggression?",
+    "What are the elements of genocide and crimes against humanity?"
+   ],
+   "discuss": [
+    "Did Nuremberg apply retroactive law?",
+    "Is aggression a legal or political concept?",
+    "Are amnesties compatible with international criminal law?",
+    "How far do ICTY and ICTR cases define the crimes?",
+    "Is complementarity an adequate balance with state sovereignty?"
+   ],
+   "scenario": {
+    "title": "Practice problem (apply the elements)",
+    "text": "A military commander orders attacks on a town, forcing out its population, with killings of civilians. A peace deal grants him amnesty. Advise on possible charges.",
+    "outline": [
+     "Classify: crimes against humanity (widespread or systematic attack on civilians), war crimes (link to conflict), genocide only if intent to destroy a group.",
+     "Expulsion alone is not genocide (Stakić).",
+     "Elements and mens rea for each crime.",
+     "Amnesty: Kallon.",
+     "Which court has jurisdiction: ICC, ad hoc tribunal, national courts, complementarity.",
+     "Immunity of officials."
+    ]
+   }
+  }
  },
  {
   "n": "17",
   "t": "International environmental law",
   "c": "#2E9E5B",
   "e": "🌱",
-  "big": "States must not cause serious harm to the environment of other states or to shared spaces, and must cooperate on global problems such as climate change.",
-  "an": "A shared house: you can do what you like in your own room, but not if it floods the neighbours.",
+  "fromBook": true,
+  "big": "This chapter looks at the rules protecting the environment across borders: where they come from (treaties and custom), the major conferences from Stockholm to Copenhagen, and how, or whether, they can be enforced.",
+  "an": "A shared house: no one can fully agree on one rulebook, but over time the occupants have held conferences and signed agreements, and the hard question is how to make everyone follow them.",
   "pts": [
-   "<b>No-harm principle</b>: states must prevent significant transboundary harm (Trail Smelter, Stockholm Principle 21).",
-   "<b>Precautionary principle</b>: lack of full certainty shouldn't delay preventing serious harm.",
-   "<b>Polluter pays, sustainable development, intergenerational equity</b>.",
-   "<b>Procedural duties</b>: environmental impact assessment (EIA), notification, consultation.",
-   "<b>Key treaties</b>: Montreal Protocol, UNFCCC, Kyoto Protocol, Paris Agreement (2015), CBD, Basel Convention, CITES.",
-   "<b>Common but differentiated responsibilities</b>: all states have duties, but richer states do more.",
-   "<b>Enforcement</b> is mostly through compliance mechanisms and national courts."
+   "<b>Definition:</b> there is no single all-encompassing definition, because the field is wide and the instruments differ.",
+   "<b>Sources:</b> treaties and conventions, and customary international environmental law.",
+   "<b>Stockholm 1972:</b> the first major conference. It focused on preventing pollution and getting states to behave responsibly.",
+   "<b>Rio 1992:</b> introduced sustainable development, aiming at equitable use of resources. It produced the UNFCCC and a stress on common but <b>differentiated responsibilities</b> (developed states do more).",
+   "<b>Kyoto Protocol 1997:</b> the first major binding regime, adopted under the UNFCCC to cut greenhouse gas emissions, with mechanisms such as <b>emissions trading</b>.",
+   "<b>Johannesburg 2002 (World Summit on Sustainable Development):</b> concerned conservation and equitable use. The US did not participate, which weakened it.",
+   "<b>Copenhagen 2009:</b> aimed to give legal certainty and guidance after Kyoto's problems and to widen participation. It fell short.",
+   "<b>Ozone layer:</b> a protected topic in the book's self-test list (the Vienna Convention and Montreal Protocol).",
+   "<b>Enforcement:</b> the chapter weighs the case for enforcing environmental law and the possible means, and contrasts an enforcement-based approach with a compliance-based one."
   ],
   "cases": [
    [
-    "Trail Smelter (1938-1941)",
-    "US v Canada",
-    "A Canadian smelter polluted Washington State. Canada was responsible for preventing harm.",
-    "Foundation of no-harm rule."
+    "Trail Smelter (1938 and 1941)",
+    "United States v Canada",
+    "Fumes from a privately owned smelter in Canada damaged farmland in Washington. A tribunal asked whether Canada was responsible.",
+    "Foundation of the no-harm rule."
    ],
    [
-    "Corfu Channel (ICJ, 1949)",
-    "UK v Albania",
-    "A state must not knowingly allow its territory to be used against other states' rights.",
-    "Source of due diligence."
-   ],
-   [
-    "Lac Lanoux (1957)",
-    "Spain v France",
-    "Upstream states must consult and consider downstream interests in good faith.",
-    "Shared resources."
-   ],
-   [
-    "Nuclear Weapons AO (ICJ, 1996)",
-    "Advisory Opinion",
-    "States have a general duty to respect the environment in their jurisdiction.",
-    "Environmental obligations."
+    "Nuclear Tests (ICJ, 1974)",
+    "New Zealand v France",
+    "The Court said unilateral declarations, if intended to bind, can create legal obligations.",
+    "Unilateral declarations."
    ],
    [
     "Gabčíkovo-Nagymaros (ICJ, 1997)",
     "Hungary v Slovakia",
-    "Sustainable development must balance development and environment.",
-    "Vigilance and prevention."
+    "The Court said a treaty must be implemented while taking account of the environment, in a context of sustainable development.",
+    "Environment and treaties."
    ],
    [
-    "Pulp Mills (ICJ, 2010)",
-    "Argentina v Uruguay",
-    "Uruguay breached procedural duties but not substantive. EIA is required for risky projects.",
-    "Due diligence and EIA."
-   ],
-   [
-    "Southern Bluefin Tuna (ITLOS, 1999)",
-    "Provisional measures",
-    "Parties had to act with prudence and caution to stop stock harm.",
-    "Precaution."
-   ],
-   [
-    "Whaling in the Antarctic (ICJ, 2014)",
-    "Australia v Japan",
-    "Japan's whaling programme wasn't 'for scientific research', so it breached the Convention.",
-    "Scientific research exception."
-   ],
-   [
-    "Urgenda v Netherlands (2019)",
-    "Dutch Supreme Court",
-    "The state had to cut emissions by 25% by 2020 to protect human rights.",
-    "Climate litigation."
+    "The Paquete Habana (US, 1900)",
+    "US Supreme Court",
+    "US ships seized Cuban fishing vessels in war; the Court held coastal fishing boats were exempt under custom.",
+    "Custom as a source."
    ]
   ],
   "cards": [
    [
+    "Is there one definition of international environmental law?",
+    "No, because of its scope and varied instruments."
+   ],
+   [
+    "Sources?",
+    "Treaties and customary law."
+   ],
+   [
     "Stockholm 1972?",
-    "First UN environment conference; Principle 21."
+    "First major conference on environmental law."
    ],
    [
     "Rio 1992?",
-    "Earth Summit: precaution and sustainable development."
+    "Introduced sustainable development; UNFCCC."
    ],
    [
-    "Precautionary principle?",
-    "Act to prevent serious harm despite uncertainty."
-   ],
-   [
-    "Polluter pays?",
-    "The polluter bears the cost."
-   ],
-   [
-    "EIA?",
-    "Environmental impact assessment."
-   ],
-   [
-    "CBDR?",
-    "Common but differentiated responsibilities."
-   ],
-   [
-    "Montreal Protocol?",
-    "1987 treaty phasing out ozone-depleting substances."
-   ],
-   [
-    "Paris Agreement?",
-    "2015 climate treaty with nationally determined contributions."
+    "UNFCCC?",
+    "Framework convention on climate change."
    ],
    [
     "Kyoto Protocol?",
-    "Binding emissions targets for developed states."
+    "1997 binding regime on greenhouse gases."
    ],
    [
-    "Basel Convention?",
-    "Controls hazardous waste movement."
+    "Emissions trading?",
+    "Market mechanism to meet emission targets."
+   ],
+   [
+    "Differentiated responsibilities?",
+    "All states have duties, developed states carry more."
+   ],
+   [
+    "Johannesburg 2002?",
+    "World Summit on Sustainable Development."
+   ],
+   [
+    "Why was Johannesburg weak?",
+    "The US did not take part."
+   ],
+   [
+    "Copenhagen 2009?",
+    "Aimed for legal certainty; fell short."
+   ],
+   [
+    "Trail Smelter?",
+    "Canadian fumes harmed US land; no-harm rule."
+   ],
+   [
+    "Enforcement vs compliance?",
+    "Coercive approach vs cooperative approach."
+   ],
+   [
+    "Ozone layer?",
+    "Protected by the Vienna Convention and Montreal Protocol."
+   ],
+   [
+    "Trail Smelter facts?",
+    "Canadian smelter fumes damaged US farmland."
+   ],
+   [
+    "Why does Gabčíkovo matter here?",
+    "Treaties must be applied with environmental protection in mind."
+   ],
+   [
+    "What makes Kyoto special?",
+    "First major binding emissions regime."
+   ],
+   [
+    "Nuclear Tests link?",
+    "Unilateral declarations can bind."
    ]
   ],
   "quiz": [
    [
-    "Trail Smelter established…",
-    "No-harm rule",
+    "The first major environmental conference was…",
+    "Stockholm 1972",
     [
-     "Immunity",
-     "No-harm rule",
-     "Statehood",
-     "Custom"
+     "Rio",
+     "Stockholm 1972",
+     "Kyoto",
+     "Copenhagen"
+    ],
+    "Per the book."
+   ],
+   [
+    "Sustainable development entered the discourse at…",
+    "Rio 1992",
+    [
+     "Stockholm",
+     "Rio 1992",
+     "Kyoto",
+     "Johannesburg"
+    ],
+    "Equitable use of resources."
+   ],
+   [
+    "Kyoto is…",
+    "The first binding regime on emissions",
+    [
+     "A custom",
+     "The first binding regime on emissions",
+     "A declaration",
+     "A court"
+    ],
+    "Adopted under the UNFCCC."
+   ],
+   [
+    "The US did not participate in…",
+    "The 2002 Earth Summit",
+    [
+     "Rio",
+     "The 2002 Earth Summit",
+     "Stockholm",
+     "Kyoto"
+    ],
+    "It undermined success."
+   ],
+   [
+    "Differentiated responsibilities imply…",
+    "Developed states do more",
+    [
+     "Equal duties",
+     "Developed states do more",
+     "No duties",
+     "A veto"
+    ],
+    "Per the book."
+   ],
+   [
+    "Emissions trading is…",
+    "A market mechanism",
+    [
+     "A court",
+     "A market mechanism",
+     "A treaty",
+     "A sanction"
+    ],
+    "Under Kyoto."
+   ],
+   [
+    "Trail Smelter involved…",
+    "Fumes from Canada damaging US land",
+    [
+     "A shipwreck",
+     "Fumes from Canada damaging US land",
+     "A dam",
+     "Whaling"
     ],
     "Transboundary harm."
    ],
    [
-    "Pulp Mills requires…",
-    "EIA for risky projects",
+    "Copenhagen aimed to…",
+    "Give legal certainty after Kyoto's problems",
     [
-     "Veto",
-     "EIA for risky projects",
-     "Treaty",
-     "Consent"
+     "End Kyoto",
+     "Give legal certainty after Kyoto's problems",
+     "Ban emissions",
+     "Create a court"
     ],
-    "2010."
+    "But it fell short."
    ],
    [
-    "Precaution means…",
-    "Act despite uncertainty",
+    "Nuclear Tests held unilateral declarations…",
+    "Can bind",
     [
-     "Wait",
-     "Act despite uncertainty",
-     "Sanction",
-     "Ban"
+     "Never bind",
+     "Can bind",
+     "Are treaties",
+     "Are void"
     ],
-    "Rio Principle 15."
+    "If meant to bind."
    ],
    [
-    "Paris Agreement uses…",
-    "NDCs",
+    "Gabčíkovo links…",
+    "Treaties and the environment",
     [
-     "Fines",
-     "NDCs",
-     "War",
-     "Taxes"
+     "Force",
+     "Treaties and the environment",
+     "Immunity",
+     "Piracy"
     ],
-    "Nationally determined contributions."
+    "Sustainable development."
    ],
    [
-    "Montreal Protocol targets…",
-    "Ozone depleters",
+    "The Copenhagen Summit followed…",
+    "Kyoto's problems",
     [
-     "CO2",
-     "Ozone depleters",
-     "Whaling",
-     "Waste"
+     "Stockholm",
+     "Kyoto's problems",
+     "Rio",
+     "Johannesburg"
     ],
-    "1987."
+    "2009."
    ],
    [
-    "Whaling case: Japan…",
-    "Lost",
+    "The Rio Conference introduced…",
+    "Sustainable development",
     [
-     "Won",
-     "Lost",
-     "Was immune",
-     "Left"
+     "Emissions trading",
+     "Sustainable development",
+     "Ozone law",
+     "Piracy"
     ],
-    "Not scientific research."
+    "Per the book."
    ],
    [
-    "Urgenda was decided by…",
-    "Dutch Supreme Court",
+    "The book's enforcement debate contrasts…",
+    "Enforcement vs compliance",
     [
-     "ICJ",
-     "Dutch Supreme Court",
-     "ITLOS",
-     "ECJ"
+     "Treaties vs custom",
+     "Enforcement vs compliance",
+     "Rio vs Kyoto",
+     "States vs IOs"
     ],
-    "2019."
+    "Memo question."
    ],
    [
-    "CBDR means…",
-    "Different duties for different states",
+    "Paquete Habana is used for…",
+    "Custom as a source",
     [
-     "Equal duties",
-     "Different duties for different states",
-     "No duties",
-     "Veto"
+     "Treaties",
+     "Custom as a source",
+     "Equity",
+     "Soft law"
     ],
-    "Rio."
+    "US 1900."
+   ],
+   [
+    "Differentiated responsibilities are tied to…",
+    "Rio and the UNFCCC",
+    [
+     "Stockholm only",
+     "Rio and the UNFCCC",
+     "Copenhagen only",
+     "Kyoto only"
+    ],
+    "Developed states do more."
    ]
-  ]
+  ],
+  "practice": {
+   "self": [
+    "What is international environmental law?",
+    "List its sources.",
+    "What is the ozone layer?",
+    "What do differentiated responsibilities imply?",
+    "What is emissions trading?",
+    "When were the UNFCCC and Kyoto adopted?",
+    "What setbacks did Copenhagen have?",
+    "Describe enforcement of international environmental law."
+   ],
+   "discuss": [
+    "What are the UNFCCC's main contributions? Does it treat developed and developing states fairly?",
+    "Does the Kyoto Protocol improve or detract from rigorous regulation?",
+    "What is international environmental law and where does it come from?",
+    "What is the differentiated responsibility principle and why does it matter?",
+    "Evaluate Copenhagen's achievements and failures."
+   ],
+   "scenario": {
+    "title": "Assessment question (the Environment Minister's memo)",
+    "text": "The Rutamuan Environment Minister asks you to draft a memorandum on enforcing environmental regulation. Will you favour an enforcement-based or a compliance-based approach?",
+    "outline": [
+     "Define the problem: weak enforcement of environmental treaties.",
+     "Enforcement approach: sanctions, courts, countermeasures, and their limits.",
+     "Compliance approach: reporting, assistance, review and cooperation.",
+     "Lessons from Kyoto and Copenhagen.",
+     "Differentiated responsibilities and fairness between states.",
+     "Recommend a blend with reasons."
+    ]
+   }
+  }
  },
  {
   "n": "18",
   "t": "International economic law",
   "c": "#2D6CDF",
   "e": "💱",
-  "big": "This is the law of trade, money and foreign investment. Key players are the WTO, IMF, World Bank, and investment treaties.",
-  "an": "Rules for a global marketplace: no cheating with tariffs, and a fair deal for investors if a state takes over their business.",
+  "fromBook": true,
+  "big": "This chapter explains the rules for international trade and finance: the origins of international economic law after the Second World War, GATT and the WTO, dispute settlement, and the IMF and World Bank.",
+  "an": "Rules of a global marketplace: no one can cheat with trade barriers, there's a referee panel for complaints, and two big institutions lend money on conditions.",
   "pts": [
-   "<b>Bretton Woods</b>: IMF (monetary stability), World Bank (development), GATT then WTO (trade).",
-   "<b>WTO principles</b>: most-favoured-nation, national treatment, tariff bindings, transparency.",
-   "<b>WTO dispute settlement</b>: panels and the Appellate Body, which has been blocked since 2019.",
-   "<b>Exceptions</b>: GATT Art XX (health, environment), security exceptions.",
-   "<b>Investment law</b>: BITs and ICSID arbitration protect against expropriation and unfair treatment.",
-   "<b>Expropriation</b>: lawful if public purpose, non-discriminatory, with compensation (Hull formula: prompt, adequate, effective).",
-   "<b>Indirect expropriation</b>: regulation that destroys an investment's value."
+   "<b>Origins:</b> international trade is old, but international economic law, properly so called, only exists after the Second World War.",
+   "<b>GATT 1947</b> then <b>GATT 1994</b>, which strengthened it and created the <b>WTO</b> as its institution. It widened coverage, including non-tariff matters, and improved dispute settlement.",
+   "<b>Complaints:</b> a complainant must show a breach and that it has nullified or impaired its benefits under GATT (Art XXIII).",
+   "<b>Dispute settlement (1994 DSU):</b> panels are appointed by the Dispute Settlement Body. Under 1947 the GATT Council appointed them.",
+   "<b>Weaknesses</b> of the GATT system are discussed in the chapter.",
+   "<b>IMF:</b> surveillance, loans subject to <b>conditionality</b>, and technical assistance.",
+   "<b>World Bank:</b> a Bretton Woods institution giving low-interest loans and interest-free credit for reconstruction and development.",
+   "<b>WTO:</b> composition, functions and an inspection mechanism are covered at the end."
   ],
   "cases": [
    [
-    "Texaco v Libya (1977)",
-    "Arbitration",
-    "Nationalisation breached stabilisation clauses and Libya had to honour the contracts.",
-    "Contracts and expropriation."
+    "Australian Subsidy on Ammonium Sulphate (GATT, 1950)",
+    "Working Party",
+    "Chile complained that Australia's ending of parallel subsidies on two competing fertilisers upset the competitive balance.",
+    "Nullification or impairment."
    ],
    [
-    "Barcelona Traction (ICJ, 1970)",
-    "Belgium v Spain",
-    "Shareholders' state can't generally claim for harm to the company.",
-    "Corporate nationality."
+    "German Sardine Imports (GATT, 1952)",
+    "Norway v Germany",
+    "The same approach was applied in a dispute about Germany's treatment of sardine imports.",
+    "Nullification or impairment."
    ],
    [
-    "ELSI (ICJ, 1989)",
-    "US v Italy",
-    "Italy's requisition wasn't arbitrary, so no breach of the treaty.",
-    "Arbitrariness standard."
+    "Uruguay's Recourse to Art XXIII (GATT, 1962)",
+    "Panel",
+    "Uruguay complained that measures of some fifteen parties limited its market opportunities.",
+    "Developing states' complaints."
    ],
    [
-    "SEDCO v NIOC (Iran-US Tribunal, 1986)",
-    "Claims",
-    "The tribunal applied customary rules on expropriation and compensation.",
-    "Compensation standards."
-   ],
-   [
-    "AMCO v Indonesia (ICSID, 1984)",
-    "Arbitration",
-    "Indonesia's revocation of a licence was unlawful, so damages were due.",
-    "ICSID practice."
-   ],
-   [
-    "Metalclad v Mexico (NAFTA, 2000)",
-    "Tribunal",
-    "Mexico's municipal denial of a permit was an indirect expropriation.",
-    "Regulatory takings."
-   ],
-   [
-    "Tecmed v Mexico (ICSID, 2003)",
-    "Award",
-    "Refusal to renew a landfill licence breached fair and equitable treatment.",
-    "Legitimate expectations."
-   ],
-   [
-    "US-Shrimp (WTO AB, 1998)",
-    "US v India, Malaysia, Pakistan, Thailand",
-    "US turtle protection measures had to be applied in a non-discriminatory way.",
-    "Environment exception."
-   ],
-   [
-    "EC-Hormones (WTO AB, 1998)",
-    "US/Canada v EC",
-    "The EC's hormone-beef ban lacked adequate scientific risk assessment.",
-    "SPS science rule."
-   ],
-   [
-    "Philip Morris v Australia (PCA, 2015)",
-    "Plain packaging",
-    "The tribunal rejected the claim for abuse of process, and the regulation stayed.",
-    "Limits on investor claims."
+    "US-Shrimp (WTO Appellate Body, 1998)",
+    "Import prohibition on shrimp",
+    "The Appellate Body held the panel erred in its legal interpretation of the exceptions clause.",
+    "Trade and environment exceptions."
    ]
   ],
   "cards": [
    [
-    "WTO created?",
-    "1995, replacing GATT."
+    "International economic law origin?",
+    "After the Second World War."
    ],
    [
-    "MFN?",
-    "Treat all trading partners equally."
+    "GATT 1947?",
+    "First regime for trade rules."
    ],
    [
-    "National treatment?",
-    "Treat foreign goods like domestic."
+    "GATT 1994?",
+    "Strengthened GATT and created the WTO."
    ],
    [
-    "ICSID?",
-    "World Bank's investment arbitration centre."
+    "Art XXIII?",
+    "Complaints of nullification or impairment."
    ],
    [
-    "BIT?",
-    "Bilateral investment treaty."
+    "Who appoints panels now?",
+    "The Dispute Settlement Body."
    ],
    [
-    "Hull formula?",
-    "Prompt, adequate, effective compensation."
+    "DSU?",
+    "1994 Dispute Settlement Understanding."
    ],
    [
-    "FET?",
-    "Fair and equitable treatment."
+    "IMF functions?",
+    "Surveillance, loans, technical help."
    ],
    [
-    "Indirect expropriation?",
-    "Regulation that substantially destroys value."
+    "Conditionality?",
+    "Programmes states must follow to draw IMF funds."
    ],
    [
-    "Appellate Body?",
-    "WTO appeal body, blocked since 2019."
+    "World Bank?",
+    "Lends for reconstruction and development."
    ],
    [
-    "GATT Art XX?",
-    "General exceptions, such as health and environment."
+    "Bretton Woods institutions?",
+    "IMF and World Bank."
+   ],
+   [
+    "US-Shrimp?",
+    "AB case on environment exceptions."
+   ],
+   [
+    "Ammonium Sulphate?",
+    "GATT complaint by Chile v Australia."
+   ],
+   [
+    "What is nullification or impairment?",
+    "Loss of benefits under GATT that founds a complaint."
+   ],
+   [
+    "Which cases show early GATT practice?",
+    "Ammonium Sulphate and German Sardines."
+   ],
+   [
+    "What changed with the DSU?",
+    "Panels appointed by the DSB."
+   ],
+   [
+    "WTO: what is the exceptions case?",
+    "US-Shrimp."
    ]
   ],
   "quiz": [
    [
-    "MFN means…",
-    "Treat all partners equally",
+    "International economic law properly dates from…",
+    "After the Second World War",
     [
-     "Favour allies",
-     "Treat all partners equally",
-     "Tax imports",
-     "None"
+     "Roman times",
+     "After the Second World War",
+     "1990s",
+     "1800s"
     ],
-    "Non-discrimination."
+    "Per the book."
    ],
    [
-    "ICSID is…",
-    "World Bank arbitration centre",
+    "GATT 1994 created…",
+    "The WTO",
     [
-     "WTO body",
-     "World Bank arbitration centre",
-     "UN court",
-     "ICJ chamber"
+     "The IMF",
+     "The WTO",
+     "The ICJ",
+     "The UN"
     ],
-    "Investment disputes."
+    "Institutional mechanism."
    ],
    [
-    "Hull formula requires…",
-    "Prompt, adequate, effective compensation",
+    "Panels are appointed by…",
+    "The Dispute Settlement Body",
     [
-     "None",
-     "Prompt, adequate, effective compensation",
-     "Partial",
-     "Symbolic"
+     "The GATT Council",
+     "The Dispute Settlement Body",
+     "The IMF",
+     "States"
     ],
-    "Standard."
+    "Under 1994."
    ],
    [
-    "Metalclad involved…",
-    "Indirect expropriation",
+    "A complaint needs…",
+    "Breach and nullification or impairment",
     [
+     "Breach only",
+     "Breach and nullification or impairment",
+     "Veto",
+     "Treaty"
+    ],
+    "Art XXIII."
+   ],
+   [
+    "IMF loans carry…",
+    "Conditionality",
+    [
+     "No terms",
+     "Conditionality",
+     "Interest-free terms",
+     "Immunity"
+    ],
+    "Programmes to follow."
+   ],
+   [
+    "The World Bank gives…",
+    "Low-interest loans and credit",
+    [
+     "Only grants",
+     "Low-interest loans and credit",
      "Tariffs",
-     "Indirect expropriation",
+     "Sanctions"
+    ],
+    "For development."
+   ],
+   [
+    "US-Shrimp was decided by…",
+    "The Appellate Body",
+    [
+     "The ICJ",
+     "The Appellate Body",
+     "The IMF",
+     "ITLOS"
+    ],
+    "1998."
+   ],
+   [
+    "Chile v Australia concerned…",
+    "Fertiliser subsidies",
+    [
+     "Sardines",
+     "Fertiliser subsidies",
      "Shrimp",
-     "Hormones"
+     "Oil"
     ],
-    "NAFTA."
+    "Ammonium sulphate."
    ],
    [
-    "US-Shrimp concerned…",
-    "Environment exception",
+    "Before WWII there was…",
+    "No international regulation of trade",
     [
-     "Tariffs",
-     "Environment exception",
-     "Subsidies",
-     "Dumping"
+     "Full regulation",
+     "No international regulation of trade",
+     "The WTO",
+     "The IMF"
     ],
-    "Art XX."
+    "Per the book."
    ],
    [
-    "Appellate Body has been…",
-    "Blocked since 2019",
+    "Uruguay's Art XXIII complaint concerned…",
+    "Market access limits by 15 parties",
     [
-     "Expanded",
-     "Blocked since 2019",
-     "Abolished",
-     "Merged"
-    ],
-    "Appointments."
-   ],
-   [
-    "Philip Morris v Australia…",
-    "Claim rejected",
-    [
-     "Won",
-     "Claim rejected",
-     "Settled",
-     "Dropped"
-    ],
-    "Abuse of process."
-   ],
-   [
-    "Barcelona Traction deals with…",
-    "Shareholders' claims",
-    [
-     "Tariffs",
-     "Shareholders' claims",
      "Shrimp",
-     "Force"
+     "Market access limits by 15 parties",
+     "Subsidies only",
+     "Oil"
     ],
-    "Corporate nationality."
+    "1962."
+   ],
+   [
+    "The IMF provides…",
+    "Loans with conditionality",
+    [
+     "Free grants",
+     "Loans with conditionality",
+     "Tariffs",
+     "Patents"
+    ],
+    "Plus surveillance."
+   ],
+   [
+    "GATT 1994 improved…",
+    "Coverage and dispute settlement",
+    [
+     "Nothing",
+     "Coverage and dispute settlement",
+     "Only tariffs",
+     "Courts"
+    ],
+    "Including non-tariff matters."
+   ],
+   [
+    "Bretton Woods institutions are…",
+    "The IMF and World Bank",
+    [
+     "WTO and UN",
+     "The IMF and World Bank",
+     "ICJ and ICC",
+     "OECD"
+    ],
+    "Per the book."
    ]
-  ]
+  ],
+  "practice": {
+   "self": [
+    "What is international economic law?",
+    "How did GATT 1994 change GATT 1947?",
+    "What must a complainant show under Art XXIII?",
+    "What does the IMF do?",
+    "What does the World Bank do?",
+    "How are WTO panels appointed?"
+   ],
+   "discuss": [
+    "Is the GATT/WTO system effective in settling disputes?",
+    "Does IMF conditionality undermine state sovereignty?",
+    "What were GATT's weaknesses?",
+    "How do trade rules interact with environmental protection (US-Shrimp)?"
+   ],
+   "scenario": {
+    "title": "Practice problem (apply GATT rules)",
+    "text": "Rutamu removes a subsidy that Candoma's exporters relied on, harming their competitiveness. Candoma wants to complain. Advise.",
+    "outline": [
+     "Identify the GATT provision allegedly breached.",
+     "Nullification or impairment under Art XXIII; no breach needed in early practice (Ammonium Sulphate, Sardines).",
+     "Procedure: consultation, panel via the DSB, Appellate Body.",
+     "Possible exceptions the respondent may raise.",
+     "Remedies and compliance."
+    ]
+   }
+  }
  },
  {
   "n": "19",
   "t": "International human rights",
   "c": "#D9467A",
   "e": "✊",
-  "big": "Human rights law protects individuals against their own state. It began with the UDHR (1948) and now includes global and regional treaties and courts.",
-  "an": "A set of guarantees that every person carries with them, such as life, fair trial, and freedom from torture, which governments must respect.",
+  "fromBook": true,
+  "big": "This chapter explains human rights law: the idea of human rights, the UN system (UDHR, ICCPR, ICESCR and treaty bodies), the African, American and European systems, and tough modern issues such as terrorism, torture and cultural practices.",
+  "an": "A set of guarantees every person carries with them and every government must respect, with global treaties and regional courts to check on whether states keep their promises.",
   "pts": [
-   "<b>UDHR 1948</b>, then <b>ICCPR</b> and <b>ICESCR</b> (1966) form the International Bill of Rights.",
-   "<b>Regional systems</b>: Europe (ECHR), Americas (ACHR), Africa (Banjul Charter).",
-   "<b>Types</b>: civil and political, economic social and cultural, and collective rights.",
-   "<b>Obligations</b>: respect, protect, fulfil.",
-   "<b>Derogation</b>: allowed in emergencies, but not from core rights such as the right to life or ban on torture.",
-   "<b>Universality vs cultural relativism</b> is a long-running debate.",
-   "<b>Extraterritorial</b> application depends on jurisdiction or effective control."
+   "<b>Nature:</b> human rights are inherent in people by virtue of being human, but states can deny or suspend them, especially undemocratic ones.",
+   "<b>UN:</b> the Charter mentioned human rights but set up no enforcement mechanism. The 1948 UDHR was non-binding.",
+   "<b>ICCPR</b> (civil and political rights) is binding, allows no actio popularis and permits derogation in emergencies. The <b>Human Rights Committee</b> hears individual complaints under the First Optional Protocol, once local remedies are exhausted.",
+   "<b>ICESCR</b> (economic, social and cultural rights) is also binding, but implementation depends on resources, ability and capacity.",
+   "<b>Other treaties:</b> the book covers the conventions on discrimination, torture (CAT) and others. The Committee against Torture insists CAT applies in armed conflict.",
+   "<b>African system:</b> the Charter includes peoples' rights and recognises actio popularis. The African Court of Justice and Human Rights merged two earlier courts.",
+   "<b>American system:</b> the oldest and most complicated, with the Declaration and the Convention. The book flags a major weakness in the Convention's system.",
+   "<b>European system:</b> the first comprehensive regional instrument. Protocol 11 (1998) replaced the Commission with a single full-time Court, the oldest and probably most active human rights court.",
+   "<b>Terrorism and human rights:</b> control orders against foreign nationals in the UK who cannot be extradited. They are subject to limits (JJ, MB and AF).",
+   "<b>Torture:</b> states cannot escape the ban by claiming armed conflict. Torture is more severe than inhuman and degrading treatment."
   ],
   "cases": [
    [
-    "Velásquez Rodríguez v Honduras (IACtHR, 1988)",
-    "Enforced disappearance",
-    "Honduras failed its duty to prevent, investigate, and punish.",
-    "Positive obligations."
+    "Piandiong v Philippines (HRC, 2000)",
+    "UN Human Rights Committee",
+    "The Philippines ignored a request for interim measures.",
+    "Interim measures."
    ],
    [
-    "Soering v UK (ECtHR, 1989)",
-    "Extradition",
-    "Extradition to face death row would breach the ban on inhuman treatment.",
-    "Non-refoulement."
+    "Charles Ng v Canada (HRC, 1994)",
+    "UN Human Rights Committee",
+    "Execution by gas asphyxiation would not meet the test of avoiding cruel treatment.",
+    "Death penalty and method."
    ],
    [
-    "Ireland v UK (ECtHR, 1978)",
-    "Interrogation techniques",
-    "The 'five techniques' amounted to inhuman and degrading treatment.",
-    "Torture definition."
+    "Olga Tellis v Bombay Municipal Corporation (India, 1986)",
+    "Supreme Court",
+    "Pavement dwellers argued they couldn't be moved without alternative housing.",
+    "Socio-economic rights in courts."
    ],
    [
-    "Tyrer v UK (ECtHR, 1978)",
-    "Judicial corporal punishment",
-    "Birching was degrading. The Convention is a 'living instrument'.",
-    "Evolutive interpretation."
+    "Soobramoney v Minister of Health (South Africa, 1997)",
+    "Constitutional Court",
+    "A diabetic with serious heart and kidney disease claimed access to health care.",
+    "Health care rights."
+   ],
+   [
+    "Treatment Action Campaign (South Africa, 2002)",
+    "Constitutional Court",
+    "An appeal over HIV/AIDS treatment against a High Court order.",
+    "Health rights."
+   ],
+   [
+    "Grootboom (South Africa, 2000)",
+    "Constitutional Court",
+    "Homeless people claimed a right to shelter.",
+    "Housing rights."
    ],
    [
     "SERAC v Nigeria (African Commission, 2001)",
-    "Ogoniland",
-    "Nigeria violated rights to health, housing and a healthy environment.",
-    "Socio-economic and environmental rights."
+    "Communication 155/96",
+    "The military government was accused of harming the Ogoni through oil operations.",
+    "Collective and socio-economic rights."
    ],
    [
-    "Al-Skeini v UK (ECtHR, 2011)",
-    "Iraq",
-    "UK forces exercised authority over civilians, so the Convention applied abroad.",
-    "Extraterritorial jurisdiction."
+    "Velásquez Rodríguez (IACtHR, 1988)",
+    "v Honduras",
+    "The Court can't guarantee the victim enjoyment of the right but can rule on consequences and remedy.",
+    "Remedies."
    ],
    [
-    "Hirsi Jamaa v Italy (ECtHR, 2012)",
-    "Migrants at sea",
-    "Italy couldn't push back migrants to Libya without risk assessment.",
-    "Non-refoulement at sea."
+    "Sawhoyamaxa v Paraguay (IACtHR, 2006)",
+    "Indigenous community",
+    "Rights to property, life and legal personality; the Court dealt with reparations.",
+    "Indigenous rights."
    ],
    [
-    "Atala Riffo v Chile (IACtHR, 2012)",
-    "Child custody",
-    "Denying custody because of sexual orientation was discrimination.",
-    "Equality and non-discrimination."
+    "Banković v Belgium (ECtHR, 2001)",
+    "Grand Chamber",
+    "NATO missile strikes from a member state's territory raised whether the Convention applied.",
+    "Extraterritorial reach."
    ],
    [
-    "Diallo (ICJ, 2010)",
-    "Guinea v DRC",
-    "DRC breached ICCPR and African Charter in expelling Diallo.",
-    "ICJ on human rights."
+    "Ireland v UK (ECtHR, 1978)",
+    "Interstate case",
+    "The Court's judgments serve not only to decide cases but to clarify and develop Convention rules.",
+    "Role of the Court."
    ],
    [
-    "Wall AO (ICJ, 2004)",
-    "Advisory Opinion",
-    "Human rights treaties apply to a state's conduct outside its territory.",
-    "Extraterritoriality."
+    "Handyside v UK (ECtHR, 1979)",
+    "Freedom of expression",
+    "The UK restricted a Danish schoolbook with sexual content.",
+    "Margin of appreciation."
    ],
    [
-    "Belilos v Switzerland (ECtHR, 1988)",
-    "Reservations",
-    "An invalid reservation was struck, but the state remained bound.",
-    "Reservations to human rights treaties."
+    "Norris v Ireland (ECtHR, 1988)",
+    "Private life",
+    "Justifications for keeping the law were outweighed by its harm.",
+    "Privacy."
+   ],
+   [
+    "Lustig-Prean and Beckett v UK (ECtHR, 1999)",
+    "Armed forces",
+    "National security claims about operational effectiveness were examined.",
+    "Private life and the military."
+   ],
+   [
+    "United Communist Party of Turkey (ECtHR, 1998)",
+    "Grand Chamber",
+    "A party was dissolved days after being founded.",
+    "Freedom of association."
+   ],
+   [
+    "Refah Partisi v Turkey (ECtHR, 2003)",
+    "Grand Chamber",
+    "The Welfare Party was dissolved for advocating a system the Turkish court found incompatible with the constitution.",
+    "Political parties."
+   ],
+   [
+    "A v Home Secretary (UK HL, 2004)",
+    "House of Lords",
+    "The 2001 Act allowed discrimination against suspected foreign terrorists and was declared incompatible with the HRA.",
+    "Terrorism and rights."
+   ],
+   [
+    "JJ (UK HL, 2007)",
+    "Control orders",
+    "Foreign nationals were put under control orders; the Lords examined whether they were too severe.",
+    "Control orders."
+   ],
+   [
+    "MB and AF (UK HL, 2007)",
+    "Control orders",
+    "Two non-derogating orders; the limits on fair hearing were challenged.",
+    "Control orders."
+   ],
+   [
+    "Public Committee against Torture v Israel (Israel, 1999)",
+    "Supreme Court",
+    "The court recognised terror's effects on security but limited interrogation methods.",
+    "Torture and security."
+   ],
+   [
+    "Şahin v Turkey (ECtHR, 2005)",
+    "Headscarf",
+    "A student challenged the university ban on Islamic headscarves under Arts 8, 9, 10 and 14.",
+    "Religious dress."
+   ],
+   [
+    "Multani v Commission Scolaire (Canada, 2006)",
+    "Supreme Court",
+    "A total ban on a Sikh student wearing a kirpan to school was not justified.",
+    "Religious freedom."
+   ],
+   [
+    "Goldman v Weinberger (US, 1986)",
+    "Supreme Court",
+    "An Orthodox Jewish rabbi in the military was ordered not to wear a yarmulke.",
+    "Religion in the armed forces."
    ]
   ],
   "cards": [
    [
+    "Human rights?",
+    "Rights inherent in people by being human."
+   ],
+   [
     "UDHR?",
-    "Universal Declaration of Human Rights, 1948."
+    "1948; not binding."
    ],
    [
     "ICCPR?",
-    "International Covenant on Civil and Political Rights."
+    "Binding civil and political rights."
    ],
    [
     "ICESCR?",
-    "International Covenant on Economic, Social and Cultural Rights."
+    "Binding economic, social and cultural rights."
+   ],
+   [
+    "Actio popularis under ICCPR?",
+    "No; complaints must be individual."
+   ],
+   [
+    "HR Committee?",
+    "Monitors the ICCPR; hears complaints under the Optional Protocol."
+   ],
+   [
+    "Local remedies?",
+    "Must be exhausted first."
+   ],
+   [
+    "African Charter?",
+    "Includes peoples' rights and actio popularis."
+   ],
+   [
+    "American system?",
+    "Declaration plus Convention; oldest and most complicated."
    ],
    [
     "ECHR?",
-    "European Convention on Human Rights."
+    "First comprehensive regional instrument."
    ],
    [
-    "Non-derogable rights?",
-    "Life, torture ban, slavery ban, no retroactive penalty."
+    "Protocol 11?",
+    "Replaced the Commission with a single Court."
    ],
    [
-    "Margin of appreciation?",
-    "State discretion allowed by the ECtHR."
+    "Control order?",
+    "UK order restricting foreign terror suspects who can't be extradited."
    ],
    [
-    "Living instrument?",
-    "Rights interpreted in light of present conditions."
+    "Torture in armed conflict?",
+    "The ban still applies (Committee against Torture)."
    ],
    [
-    "Non-refoulement?",
-    "No return to risk of torture or persecution."
+    "ICESCR implementation?",
+    "Varies with resources and capacity."
    ],
    [
-    "Positive obligation?",
-    "Duty to act to protect rights."
+    "Ireland v UK role?",
+    "Judgments clarify and develop Convention rules."
    ],
    [
-    "Banjul Charter?",
-    "African Charter on Human and Peoples' Rights."
+    "Handyside principle?",
+    "Margin of appreciation in expression cases."
+   ],
+   [
+    "What did A v Home Secretary decide?",
+    "The 2001 Act was incompatible with the HRA."
+   ],
+   [
+    "Şahin v Turkey issue?",
+    "University headscarf ban."
    ]
   ],
   "quiz": [
    [
-    "UDHR was adopted in…",
-    "1948",
+    "The UDHR is…",
+    "Not legally binding",
     [
-     "1945",
-     "1948",
-     "1966",
-     "1950"
+     "A treaty",
+     "Not legally binding",
+     "Custom only",
+     "A court"
     ],
-    "UN GA."
+    "1948."
    ],
    [
-    "Soering relates to…",
-    "Extradition to death row",
+    "The ICCPR allows…",
+    "Derogation in emergencies",
     [
-     "Piracy",
-     "Extradition to death row",
-     "Statehood",
-     "Sea"
+     "No derogation",
+     "Derogation in emergencies",
+     "Actio popularis",
+     "Veto"
     ],
-    "Inhuman treatment."
+    "Per the book."
    ],
    [
-    "Velásquez Rodríguez is…",
-    "IACtHR disappearance case",
+    "The HR Committee hears complaints under…",
+    "The First Optional Protocol",
     [
-     "ECtHR",
-     "IACtHR disappearance case",
-     "ICJ",
-     "ICC"
+     "The Charter",
+     "The First Optional Protocol",
+     "The UDHR",
+     "ECHR"
     ],
-    "Positive obligations."
+    "After local remedies."
    ],
    [
-    "Tyrer introduced…",
-    "Living instrument idea",
+    "The African Charter recognises…",
+    "Actio popularis",
     [
-     "Margin",
-     "Living instrument idea",
-     "Derogation",
-     "Reservation"
+     "No collective rights",
+     "Actio popularis",
+     "Only civil rights",
+     "Only duties"
     ],
-    "Evolutive interpretation."
+    "And peoples' rights."
    ],
    [
-    "Al-Skeini was about…",
-    "Extraterritorial application",
+    "Protocol 11 created…",
+    "A single Court replacing the Commission",
     [
+     "The ICJ",
+     "A single Court replacing the Commission",
+     "The HRC",
+     "Appeals"
+    ],
+    "1998."
+   ],
+   [
+    "The ECtHR is…",
+    "The oldest human rights court",
+    [
+     "The newest",
+     "The oldest human rights court",
+     "Inactive",
+     "Regional UN organ"
+    ],
+    "Probably the most active."
+   ],
+   [
+    "Control orders target…",
+    "Foreign nationals who can't be extradited",
+    [
+     "Citizens only",
+     "Foreign nationals who can't be extradited",
+     "Pirates",
+     "Diplomats"
+    ],
+    "UK practice."
+   ],
+   [
+    "Does the CAT apply in armed conflict?",
+    "Yes, per the Committee against Torture",
+    [
+     "No",
+     "Yes, per the Committee against Torture",
+     "Only in peace",
+     "Only to states"
+    ],
+    "States often argue otherwise."
+   ],
+   [
+    "Grootboom is about…",
+    "The right to shelter",
+    [
+     "Health",
+     "The right to shelter",
+     "Voting",
+     "Torture"
+    ],
+    "South Africa."
+   ],
+   [
+    "Kirpan case (Multani) held…",
+    "A total ban wasn't justified",
+    [
+     "The ban was upheld",
+     "A total ban wasn't justified",
+     "Case moot",
+     "No jurisdiction"
+    ],
+    "Canadian Supreme Court."
+   ],
+   [
+    "Lustig-Prean concerned…",
+    "Gays in the armed forces",
+    [
+     "Torture",
+     "Gays in the armed forces",
      "Immunity",
-     "Extraterritorial application",
-     "Statehood",
-     "Custom"
+     "Piracy"
     ],
-    "Iraq."
+    "National security claim."
    ],
    [
-    "Non-refoulement bans…",
-    "Return to risk of torture",
+    "Refah Partisi concerned…",
+    "Dissolution of a political party",
     [
-     "Visas",
-     "Return to risk of torture",
-     "Trade",
-     "Aid"
+     "Torture",
+     "Dissolution of a political party",
+     "Piracy",
+     "Asylum"
     ],
-    "Hirsi Jamaa."
+    "Turkey, 2003."
    ],
    [
-    "Which isn't derogable?",
-    "Prohibition of torture",
+    "Soobramoney is about…",
+    "Access to health care",
     [
-     "Assembly",
-     "Prohibition of torture",
-     "Movement",
-     "Speech"
+     "Housing",
+     "Access to health care",
+     "Voting",
+     "Torture"
     ],
-    "Absolute."
+    "South Africa."
    ],
    [
-    "SERAC concerned…",
-    "Ogoniland in Nigeria",
+    "Which case is on the kirpan?",
+    "Multani",
     [
-     "Chile",
-     "Ogoniland in Nigeria",
-     "Iraq",
-     "Honduras"
+     "Goldman",
+     "Multani",
+     "Şahin",
+     "Norris"
     ],
-    "African Commission."
+    "Canada."
+   ],
+   [
+    "Banković is about…",
+    "Whether the ECHR applied to NATO strikes",
+    [
+     "Control orders",
+     "Whether the ECHR applied to NATO strikes",
+     "Torture",
+     "Asylum"
+    ],
+    "Extraterritorial reach."
    ]
-  ]
+  ],
+  "practice": {
+   "self": [
+    "What are international human rights?",
+    "Civil and political vs social, cultural and economic rights?",
+    "List the jurisdictional competences of the African Court of Justice and Human Rights.",
+    "What is the HR Committee's function and the effect of its comments?",
+    "How does ECHR Protocol 11 affect the European system?",
+    "Identify a major weakness of the American Convention.",
+    "What is a control order?"
+   ],
+   "discuss": [
+    "Are human rights and cultural practices unavoidably incompatible? Use cases.",
+    "Is terrorism whatever a state says it is?",
+    "Can a state avoid torture claims by pleading armed conflict (Guantánamo, Abu Ghraib)?",
+    "Discuss the jurisdiction of the African Court of Justice and Human Rights.",
+    "What does the HR Committee do and how far do its comments change state practice?"
+   ],
+   "scenario": {
+    "title": "Assessment question (ICCPR and ICESCR)",
+    "text": "'The rights in the ICESCR are fundamentally different from those in the ICCPR; ICCPR rights can be adjudicated but ICESCR rights are non-justiciable.' Critically analyse, with cases.",
+    "outline": [
+     "Compare the two Covenants: obligations, implementation, derogation.",
+     "Argue that ICCPR rights are adjudicated via the HR Committee and courts.",
+     "Show socio-economic rights adjudicated in domestic courts: Olga Tellis, Soobramoney, Grootboom, TAC.",
+     "Regional examples: SERAC v Nigeria.",
+     "Limits: resources, capacity, progressive realisation.",
+     "Conclude that the 'non-justiciable' claim is too strong."
+    ]
+   }
+  }
  }
 ];
