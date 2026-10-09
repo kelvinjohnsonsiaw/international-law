@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react";
 import { useState, useEffect } from "react";
 import chapters from "./data/chapters.js";
 import { loadProgress, saveProgress } from "./storage.js";
@@ -24,32 +25,35 @@ export default function App() {
   const reset = () => { setDone({}); saveProgress({ done: {} }); };
 
   return (
-    <div className="wrap">
-      <header>
-        <h1>International Law, made easy 🌍</h1>
-        <p>Plain-English study notes, case stories, flashcards and quizzes. Take it one chapter at a time.</p>
-        <div className="prog"><i style={{ width: (count / chapters.length) * 100 + "%" }} /></div>
-        <div style={{ fontSize: ".85rem", color: "var(--mute)", marginTop: 4 }}>
-          {count} of {chapters.length} chapters complete (quiz 75%+).
+    <>
+      <Analytics />
+      <div className="wrap">
+        <header>
+          <h1>International Law, made easy 🌍</h1>
+          <p>Plain-English study notes, case stories, flashcards and quizzes. Take it one chapter at a time.</p>
+          <div className="prog"><i style={{ width: (count / chapters.length) * 100 + "%" }} /></div>
+          <div style={{ fontSize: ".85rem", color: "var(--mute)", marginTop: 4 }}>
+            {count} of {chapters.length} chapters complete (quiz 75%+).
+          </div>
+        </header>
+
+        <nav className="chaps" aria-label="Chapters">
+          {chapters.map((x, i) => (
+            <button key={i} className={i === ci ? "on" : ""} onClick={() => { setCi(i); setTab("learn"); }}>
+              {done[i] ? "✅" : x.e} {x.n}. {x.t}
+            </button>
+          ))}
+        </nav>
+
+        <div className="tabs">
+          {TABS.map(([id, label]) => (
+            <button key={id} className={tab === id ? "on" : ""} onClick={() => setTab(id)}>{label}</button>
+          ))}
         </div>
-      </header>
 
-      <nav className="chaps" aria-label="Chapters">
-        {chapters.map((x, i) => (
-          <button key={i} className={i === ci ? "on" : ""} onClick={() => { setCi(i); setTab("learn"); }}>
-            {done[i] ? "✅" : x.e} {x.n}. {x.t}
-          </button>
-        ))}
-      </nav>
-
-      <div className="tabs">
-        {TABS.map(([id, label]) => (
-          <button key={id} className={tab === id ? "on" : ""} onClick={() => setTab(id)}>{label}</button>
-        ))}
+        <main><View key={tab === "revision" ? "revision" : ci + tab} c={c} all={chapters} onDone={markDone} /></main>
+        <button className="reset" onClick={reset}>Reset my progress</button>
       </div>
-
-      <main><View key={tab === "revision" ? "revision" : ci + tab} c={c} all={chapters} onDone={markDone} /></main>
-      <button className="reset" onClick={reset}>Reset my progress</button>
-    </div>
+    </>
   );
 }
