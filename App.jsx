@@ -52,6 +52,8 @@ export default function App() {
         </div>
 
         <main><View key={tab === "revision" ? "revision" : ci + tab} c={c} all={chapters} onDone={markDone} /></main>
+        
+        <button className="reset" onClick={reset}>Reset my progress</button>
         <div>
           <a
             href="https://commerciallaw-reg.vercel.app/"
@@ -62,7 +64,6 @@ export default function App() {
             Commercial Law
           </a>
         </div>
-        <button className="reset" onClick={reset}>Reset my progress</button>
       </div>
     </>
   );
