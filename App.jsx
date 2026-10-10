@@ -61,7 +61,7 @@ export default function App() {
           >
             Commercial Law
           </a>
-        </>
+        </div>
         <button className="reset" onClick={reset}>Reset my progress</button>
       </div>
     </>
