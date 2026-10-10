@@ -52,7 +52,16 @@ export default function App() {
         </div>
 
         <main><View key={tab === "revision" ? "revision" : ci + tab} c={c} all={chapters} onDone={markDone} /></main>
-        <div><a href="https://commerciallaw-reg.vercel.app/"> International Law </a> </>
+        <div>
+          <a
+            href="https://commerciallaw-reg.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="link-button"
+          >
+            Commercial Law
+          </a>
+        </>
         <button className="reset" onClick={reset}>Reset my progress</button>
       </div>
     </>
