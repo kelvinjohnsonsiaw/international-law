@@ -19,3 +19,8 @@ object in the list and change the text. No other file needs to change.
 - `src/components/`: Learn, Cases, Cards (flashcards), Quiz, Practice (exam practice), Cases (with the audio reader), Revision (mixed revision quiz across all chapters)
 - `src/storage.js`: saves progress in the browser
 - `src/styles.css`: colours, fonts, dark mode
+
+## Visitor stats (Vercel Web Analytics)
+`@vercel/analytics` is already added. After running `npm install` and redeploying,
+turn it on in the Vercel dashboard: your project > Analytics tab > Enable.
+Visits then appear there (it does not count visits while you run it locally).
